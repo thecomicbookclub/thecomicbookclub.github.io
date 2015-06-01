@@ -56,5 +56,5 @@ Hon Dineen - making Dan proud by complaining about the typography.
 
 > "I felt really conflicted over this. But I know I'll never read it again".
 
-[chao_xian](https://twitter.com/chao_xian)
+[@chao_xian](https://twitter.com/chao_xian) - glad to have an excuse to buy graphic novels and talk about it with other geeks.
 
