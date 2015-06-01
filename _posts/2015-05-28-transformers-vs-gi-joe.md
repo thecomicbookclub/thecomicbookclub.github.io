@@ -11,9 +11,9 @@ image:
 ---
 
 
-The first meetup of The Comic Book Club was hosted by me and we got together to discuss [Transformers vs GI Joe](https://www.idwpublishing.com/product/transformers-vs-g-i-joe-vol-1/). I came across the book in this [Top Comics of 2014 listing](http://www.avclub.com/article/best-comics-2014-ongoing-and-special-series-212601) by AV Club (HT [@itspaulmcgroovy](https://twitter.com/itspaulmcgroovy)) and had it on my wishlist for a while.
+The first meetup of The Comic Book Club was hosted by me and we got together to discuss [Transformers vs GI Joe](https://www.idwpublishing.com/product/transformers-vs-g-i-joe-vol-1/).
 
-Being featured by AV Club has got to mean it's good right? Well...
+I came across the book in this [Top Comics of 2014 listing](http://www.avclub.com/article/best-comics-2014-ongoing-and-special-series-212601) by AV Club (HT [@itspaulmcgroovy](https://twitter.com/itspaulmcgroovy)) and had it on my wishlist for a while. Being featured by AV Club has got to mean it's good right? Well...
 
 Here are the reviews by The Comic Book Club members with quotes selected by me.
 
