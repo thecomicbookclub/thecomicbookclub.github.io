@@ -1,6 +1,6 @@
 title:            The Comic Book Club
 description:      We read comics
-disqus_shortname: hpstrtheme
+disqus_shortname: thecomicbookclub
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
@@ -29,7 +29,7 @@ owner:
 background:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
+google_analytics: UA-63741644-1
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
