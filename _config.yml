@@ -9,12 +9,12 @@ url:
 
 # Owner/author information
 owner:
-  name:           Chao Xian
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  name:           The Comic Book Club
+  avatar:         batman-66-mask.jpg
+  bio:            "We like to read comics."
+  email:
   # Social networking links used in footer. Update and remove as you like.
-  twitter:
+  twitter: dacomicbookclub
   facebook:
   github:
   stackexchange:
@@ -23,7 +23,7 @@ owner:
   flickr:
   tumblr:
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:
 
 # Background image to be tiled on all pages
 background:

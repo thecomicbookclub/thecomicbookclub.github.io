@@ -1,34 +1,35 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: About the Comic Book Club
 image:
   feature: abstract-5.jpg
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 comments: false
-modified: 2014-12-24
+modified: 2015-06-05
 ---
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+Founded in 2015 and inspired by the book club that my wife is part of, I ([@chao_xian](https://twitter.com/chao_xian)) decided to start up a Comic Book Club with a few of those local to me who I know are fellow comic book geeks.
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+## Club rules
 
-## What HPSTR brings to the table:
+Some of this is cribbed from [Radio 4's guide to running a bookclub](http://www.bbc.co.uk/radio4/features/book-club/running-a-club/)
 
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrads in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Modern and minimal design.
-* Sweet animated menu.
-* Background image support.
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Built-in support for Sass courtesy of Jekyll 2.x.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting]({{ site.url }}/code-highlighting-post/) to make your code examples look snazzy.
+* The first rule is...
+* Keep membership small (at the moment that's very easy), ideally 8
+* Chit chat for 15-20 minutes before Club begins
+* Host arranges data ASAP
+* Host picks book in advance
+* Host picks venue
+* Host chairs the club session
+* We take turns being Host
+* Budget of ~£15 max
+* Ideally something none of us have read, or at the very least not read for many years
+* You can buy digital or World of Things version to read
+* Think of 3 points about the book you want to say and bring it along
+* Plus a sentence on whether you liked it and why
+* It would be helpful to write these down to be collated
+* Give it a score out of 5
+* Repeat once a month!
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
-
-[^1]: Example: *domain.com/category-name/post-title*
+The last few will be curated into reviews on this site :bowtie:
