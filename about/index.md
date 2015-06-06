@@ -15,7 +15,7 @@ Founded in 2015 and inspired by the book club that my wife is part of, I ([@chao
 
 Some of this is cribbed from [Radio 4's guide to running a bookclub](http://www.bbc.co.uk/radio4/features/book-club/running-a-club/)
 
-* The first rule is...
+* The first rule is... (you do no talk about the comic book we're reading before the club meet)
 * Keep membership small (at the moment that's very easy), ideally 8
 * Chit chat for 15-20 minutes before Club begins
 * Host arranges data ASAP
