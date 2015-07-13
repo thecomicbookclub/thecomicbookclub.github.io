@@ -4,6 +4,7 @@ title: "The Auteur"
 description: "For our difficult second meetup we went for Oni Press' The Auteur"
 tags: [review]
 modified: 2015-07-09
+author: Dan Dineen
 image:
   feature: comic/the-auteur-cover.jpg
   credit: Oni Press
@@ -11,7 +12,7 @@ image:
 ---
 
 
-For the second meetup of The Comic Book Club we took on something with a bit of edge. It was my choice this time round and after the insanity of Transformers vs GI Joe I wanted to  choose a book with gravitas, a book with a serious message, a highbrow work of comic literature.
+For the second meetup of The Comic Book Club we took on something with a bit of edge. It was my choice this time round and after the insanity of Transformers vs GI Joe I wanted to choose a book with gravitas, a book with a serious message, a highbrow work of comic literature.
 
 Then I thought “F**k it!” and chose The Auteur instead.
 

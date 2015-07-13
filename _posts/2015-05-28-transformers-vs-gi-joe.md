@@ -4,6 +4,7 @@ title: "Transformers vs GI Joe Volume 1"
 description: "Our first Comic Book Club was for this trippy clash between 80s toy brands."
 tags: [review]
 modified: 2015-05-28
+author: Chao Xian
 image:
   feature: comic/tfvsjoes.jpg
   credit: IDW Publishing
@@ -57,4 +58,3 @@ Hon Dineen - making Dan proud by complaining about the typography.
 > "I felt really conflicted over this. But I know I'll never read it again".
 
 [@chao_xian](https://twitter.com/chao_xian) - glad to have an excuse to buy graphic novels and talk about it with other geeks.
-

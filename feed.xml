@@ -25,7 +25,7 @@ layout: null
   {% else %}<published>{{ post.date | date_to_xmlschema }}</published>
   <updated>{{ post.date | date_to_xmlschema }}</updated>{% endif %}
   <author>
-    <name>{{ site.owner.name }}</name>
+    <name>{{ page.author }}</name>
     <uri>{{ site.url }}</uri>
     <email>{{ site.owner.email }}</email>
   </author>
