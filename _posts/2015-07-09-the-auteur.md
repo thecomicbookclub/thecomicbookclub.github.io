@@ -31,6 +31,7 @@ The Auteur had been receiving rave reviews across the board, with reviewers clai
 :star::star::star::star:
 
 > “The court room scene was genius”
+
 > “Found the gore a bit much at times”
 
 [@tomwe](https://twitter.com/tomwe/)
@@ -40,6 +41,7 @@ The Auteur had been receiving rave reviews across the board, with reviewers clai
 :star::star::star::star:
 
 > “It’s a love story - I got Scott Pilgrim vibes. That’s a good thing!”
+
 > “Love all the cinematic references”
 
 [@chao_xian](https://twitter.com/chao_xian)
@@ -49,6 +51,7 @@ The Auteur had been receiving rave reviews across the board, with reviewers clai
 :star::star::star:
 
 > “Punky, skate-y & a bit like a strip from Thrasher magazine”
+
 > “Uber-violence made me bit queasy. Then again, I am a total wuss”
 
 [@dandineen](https://twitter.com/dandineen)
