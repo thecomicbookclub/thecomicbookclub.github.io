@@ -1,0 +1,75 @@
+---
+layout: page
+title: The Comic Book Club meetups
+author: Dan Dineen
+image:
+  feature: abstract-5.jpg
+  credit: dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+comments: false
+modified: 2015-10-04
+---
+
+We meet roughly once a month to discuss the chosen comic book. Meetups are friendly and relatively informal although there are some [basic rules](http://www.thecomicbookclub.co.uk/about/).
+
+## Upcoming meetups
+
+***
+
+### Hip Hop Family Tree Volume 1
+
+***
+
+_October 10 2015_ - Hosted by [@chao_xian](https://twitter.com/chao_xian)
+
+* Buy digital from [Comixology](https://www.comixology.co.uk/Hip-Hop-Family-Tree-Vol-1/digital-comic/49434)  
+* Buy hard copy from [The Hive](http://www.hive.co.uk/Product/Ed-Piskor/Hip-Hop-Family-Tree/15091989)  
+
+
+## Previous meetups
+
+***
+
+### [Daytripper](http://www.thecomicbookclub.co.uk/daytripper/)
+
+***
+
+_September 10, 2015_ - Hosted by [@tomwe](https://twitter.com/tomwe)
+
+* Buy digital from [Comixology](https://www.comixology.co.uk/Daytripper/digital-comic/48376?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC9pdGVtU2xpZGVy)  
+* Buy hard copy from [The Book Depository](http://www.bookdepository.com/Daytripper-Fabio-Moon/9781401229696) 
+
+
+***
+
+### [The Yellow M](http://www.thecomicbookclub.co.uk/the-yellow-m/)  
+
+***
+
+_August 24, 2015_ - Hosted by [@tygertale](https://twitter.com/tygertale)
+ 
+* Buy hard copy from [Amazon](http://www.amazon.co.uk/Adventures-Blake-Mortimer-Yellow-v/dp/190546021X/ref=sr_1_1?ie=UTF8&qid=1443969207&sr=8-1&keywords=The+Yellow+M) 
+
+
+***
+
+### [The Auteur](http://www.thecomicbookclub.co.uk/the-auteur/)
+
+***
+
+_July 09, 2015_ - Hosted by [@dandineen](https://twitter.com/dandineen)
+
+* Buy digital from [Comixology](https://www.comixology.co.uk/The-Auteur-Vol-1-Presidents-Day/digital-comic/135346?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC9pdGVtU2xpZGVy)  
+* Buy hard copy from [The Book Depository](http://www.bookdepository.com/Auteur-Book-one-Rick-C-Spears/9781620101353) 
+
+
+***
+
+### [Transformers vs GI Joe Volume 1](http://www.thecomicbookclub.co.uk/transformers-vs-gi-joe/)
+
+***
+
+_May 28, 2015_ - Hosted by [@chao_xian](https://twitter.com/chao_xian)
+
+* Buy digital from [Comixology](https://www.comixology.co.uk/Transformers-vs-G-I-Joe-Vol-1/digital-comic/177728?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC9pdGVtU2xpZGVy)  
+* Buy hard copy from [The Book Depository](http://www.bookdepository.com/Transformers-vs-G-I--Joe--Volume-1/9781631401909)
