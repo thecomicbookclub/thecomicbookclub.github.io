@@ -16,17 +16,28 @@ We meet roughly once a month to discuss the chosen comic book. Meetups are frien
 
 ***
 
-### Hip Hop Family Tree Volume 1
+### Gyo Volume 1: The Death Stench Creeps 
+
+***
+
+_November 19 2015_ - Hosted by [@dandineen](https://twitter.com/dandineen)
+
+* Buy digital from [Amazon](http://www.amazon.co.uk/Gyo-Vol-2nd-Death-Stench-Creeps-ebook/dp/B00FDZH08W/ref=sr_1_4?s=books&ie=UTF8&qid=1444575180&sr=1-4&keywords=gyo)  
+* Buy hard copy from [The Book Depository](http://www.bookdepository.com/Gyo-1-Junji-Ito/9781421513874)  
+
+
+## Previous meetups
+
+***
+
+### [Hip Hop Family Tree Volume 1](http://www.thecomicbookclub.co.uk/hip-hop-family-tree/)
 
 ***
 
 _October 10 2015_ - Hosted by [@chao_xian](https://twitter.com/chao_xian)
 
 * Buy digital from [Comixology](https://www.comixology.co.uk/Hip-Hop-Family-Tree-Vol-1/digital-comic/49434)  
-* Buy hard copy from [The Hive](http://www.hive.co.uk/Product/Ed-Piskor/Hip-Hop-Family-Tree/15091989)  
-
-
-## Previous meetups
+* Buy hard copy from [The Hive](http://www.hive.co.uk/Product/Ed-Piskor/Hip-Hop-Family-Tree/15091989) 
 
 ***
 
