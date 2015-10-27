@@ -16,17 +16,50 @@ We meet roughly once a month to discuss the chosen comic book. Meetups are frien
 
 ***
 
-### Hip Hop Family Tree Volume 1
+_CHRISTMAS SPECIAL!_
+
+### Tokyo Days Bangkok Nights
+
+_Plus special Christmas bonus book - Klaus_
+
+***
+
+_December 10 2015_ - Hosted by [@tygertale](https://twitter.com/tygertale)
+
+#### Tokyo Days Bangkok Nights
+ 
+* Buy hard copy from [Amazon](http://www.amazon.co.uk/Tokyo-Days-Bangkok-Nights-TP/dp/1401221890/ref=sr_1_1?ie=UTF8&qid=1445964029&sr=8-1&keywords=tokyo+days+bangkok+nights)
+
+#### Klaus
+
+* Available in November from [Comixology](http://www.comixology.co.uk)
+* Buy a hard copy from your local comic book store
+
+
+***
+
+### Gyo Volume 1: The Death Stench Creeps 
+
+***
+
+_November 19 2015_ - Hosted by [@dandineen](https://twitter.com/dandineen)
+
+* Buy digital from [Amazon](http://www.amazon.co.uk/Gyo-Vol-2nd-Death-Stench-Creeps-ebook/dp/B00FDZH08W/ref=sr_1_4?s=books&ie=UTF8&qid=1444575180&sr=1-4&keywords=gyo)  
+* Buy hard copy from [The Book Depository](http://www.bookdepository.com/Gyo-1-Junji-Ito/9781421513874)  
+
+
+## Previous meetups
+
+***
+
+### [Hip Hop Family Tree Volume 1](http://www.thecomicbookclub.co.uk/hip-hop-family-tree-vol-1/)
 
 ***
 
 _October 10 2015_ - Hosted by [@chao_xian](https://twitter.com/chao_xian)
 
 * Buy digital from [Comixology](https://www.comixology.co.uk/Hip-Hop-Family-Tree-Vol-1/digital-comic/49434)  
-* Buy hard copy from [The Hive](http://www.hive.co.uk/Product/Ed-Piskor/Hip-Hop-Family-Tree/15091989)  
-
-
-## Previous meetups
+* Buy hard copy from [The Hive](http://www.hive.co.uk/Product/Ed-Piskor/Hip-Hop-Family-Tree/15091989) 
 
 ***
 
