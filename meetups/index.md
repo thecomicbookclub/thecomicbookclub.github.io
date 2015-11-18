@@ -24,7 +24,7 @@ _Plus special Christmas bonus book - Klaus_
 
 ***
 
-_December 10 2015_ - Hosted by [@tygertale](https://twitter.com/tygertale)
+_December 9 2015_ - Hosted by [@tygertale](https://twitter.com/tygertale)
 
 #### Tokyo Days Bangkok Nights
  
@@ -42,7 +42,7 @@ _December 10 2015_ - Hosted by [@tygertale](https://twitter.com/tygertale)
 
 ***
 
-_November 19 2015_ - Hosted by [@dandineen](https://twitter.com/dandineen)
+_November 26 2015_ - Hosted by [@dandineen](https://twitter.com/dandineen)
 
 * Buy digital from [Amazon](http://www.amazon.co.uk/Gyo-Vol-2nd-Death-Stench-Creeps-ebook/dp/B00FDZH08W/ref=sr_1_4?s=books&ie=UTF8&qid=1444575180&sr=1-4&keywords=gyo)  
 * Buy hard copy from [The Book Depository](http://www.bookdepository.com/Gyo-1-Junji-Ito/9781421513874)  
