@@ -26,7 +26,7 @@ _January 07, 2016_ - Hosted by [@tomwe](https://twitter.com/tomwe)
 #### The Private Eye
  
 * Buy hard copy from [The Book Depository](http://www.bookdepository.com/book/9781632155726?redirected=true&selectCurrency=GBP&w=AFC7AU96S08969A8Z94R&gclid=CNqdyoa778kCFYoBwwodXD0PJw)
-* Available as a 'pay-what-you-want' digital download from [Panel Syndicate] (http://panelsyndicate.com/comics/tpeye)
+* Available as a 'pay-what-you-want' digital download from [Panel Syndicate](http://panelsyndicate.com/comics/tpeye)
 
 
 ## Previous meetups
@@ -54,7 +54,7 @@ _December 09, 2015_ - Hosted by [@tygertale](https://twitter.com/tygertale)
 
 ***
 
-### [Gyo: The Death Stench Creeps](http://www.thecomicbookclub.co.uk/gyo-the-death-stench-creeps/)
+### [Gyo: The Death Stench Creeps](http://www.thecomicbookclub.co.uk/the-death-stench-creeps/)
 
 ***
 
