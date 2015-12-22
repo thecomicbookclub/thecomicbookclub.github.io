@@ -16,6 +16,21 @@ We meet roughly once a month to discuss the chosen comic book. Meetups are frien
 
 ***
 
+### The Private Eye
+
+
+***
+
+_January 07, 2016_ - Hosted by [@tomwe](https://twitter.com/tomwe)
+
+#### The Private Eye
+ 
+* Buy hard copy from [The Book Depository](http://www.bookdepository.com/book/9781632155726?redirected=true&selectCurrency=GBP&w=AFC7AU96S08969A8Z94R&gclid=CNqdyoa778kCFYoBwwodXD0PJw)
+* Available as a 'pay-what-you-want' digital download from [Panel Syndicate] (http://panelsyndicate.com/comics/tpeye)
+
+
+## Previous meetups
+
 _CHRISTMAS SPECIAL!_
 
 ### Tokyo Days Bangkok Nights
@@ -24,7 +39,7 @@ _Plus special Christmas bonus book - Klaus_
 
 ***
 
-_December 9 2015_ - Hosted by [@tygertale](https://twitter.com/tygertale)
+_December 09, 2015_ - Hosted by [@tygertale](https://twitter.com/tygertale)
 
 #### Tokyo Days Bangkok Nights
  
@@ -36,19 +51,19 @@ _December 9 2015_ - Hosted by [@tygertale](https://twitter.com/tygertale)
 * Buy a hard copy from your local comic book store
 
 
-***
-
-### Gyo Volume 1: The Death Stench Creeps 
 
 ***
 
-_November 26 2015_ - Hosted by [@dandineen](https://twitter.com/dandineen)
+### [Gyo: The Death Stench Creeps](http://www.thecomicbookclub.co.uk/gyo-the-death-stench-creeps/)
+
+***
+
+_November 26, 2015_ - Hosted by [@dandineen](https://twitter.com/dandineen)
 
 * Buy digital from [Amazon](http://www.amazon.co.uk/Gyo-Vol-2nd-Death-Stench-Creeps-ebook/dp/B00FDZH08W/ref=sr_1_4?s=books&ie=UTF8&qid=1444575180&sr=1-4&keywords=gyo)  
 * Buy hard copy from [The Book Depository](http://www.bookdepository.com/Gyo-1-Junji-Ito/9781421513874)  
 
 
-## Previous meetups
 
 ***
 
@@ -56,7 +71,7 @@ _November 26 2015_ - Hosted by [@dandineen](https://twitter.com/dandineen)
 
 ***
 
-_October 10 2015_ - Hosted by [@chao_xian](https://twitter.com/chao_xian)
+_October 10, 2015_ - Hosted by [@chao_xian](https://twitter.com/chao_xian)
 
 * Buy digital from [Comixology](https://www.comixology.co.uk/Hip-Hop-Family-Tree-Vol-1/digital-comic/49434)  
 * Buy hard copy from [The Hive](http://www.hive.co.uk/Product/Ed-Piskor/Hip-Hop-Family-Tree/15091989) 
