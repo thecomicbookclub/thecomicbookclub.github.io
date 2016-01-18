@@ -38,12 +38,12 @@ Dan was frustrated with the digital format. He doesn't pledge very much worth to
 
 ---
 
-Although I loved it, Jake felt let down by the story. He hates PI stories like Chinatown and The Big Sleep and saw many of the genre’s tropes at play here, like plasters on character’s noses. He coined the term Neo Noir for this futuristic detective story. Dan and Kelvin both saw it as similar to Vaughan’s series Saga, where a mundane concept is presented through an utterly bonkers lense, only here it was less so and suffered as a result.  Kelvin loved the story though, and wondered what went on outside the bubble of the city, beyond ocean barrier The Wonderwall.
+Although I loved it, Jake felt let down by the story. He hates PI stories like Chinatown and The Big Sleep and saw many of the genre’s tropes at play here, like plasters on character’s noses. He coined the term Neo Noir for this futuristic detective story. Dan and Kelvin both saw it as similar to Vaughan’s series Saga, where a mundane concept is presented through an utterly bonkers lens, only here it was less so and suffered as a result.  Kelvin loved the story though, and wondered what went on outside the bubble of the city, beyond ocean barrier The Wonderwall.
 
 ---
 :star::star::star::star:
 
-> I like the setting. It’s a dystopia but a bit safer than the one in Lazarus. I can buy this happening but it’s not such a terrible, post-appocalyptic future.
+> I like the setting. It’s a dystopia but a bit safer than the one in Lazarus. I can buy this happening but it’s not such a terrible, post-apocalyptic future.
 >
 > -- <cite>[@chao_xian](https://twitter.com/chao_xian)</cite>
 
