@@ -16,24 +16,36 @@ We meet roughly once a month to discuss the chosen comic book. Meetups are frien
 
 ***
 
-### The Private Eye
+### Batman - The Doom That Came To Gotham
 
+***
+
+_February 11, 2016_ - Hosted by [@chao_xian](https://twitter.com/chao_xian)
+ 
+* Buy digital from [Comixology](https://www.comixology.co.uk/Batman-The-Doom-That-Came-To-Gotham-2001-2002/digital-comic/317681?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC9pdGVtU2xpZGVy)
+* Buy hard copy from [Amazon](http://www.amazon.co.uk/Batman-Doom-That-Came-Gotham/dp/1401258069/ref=sr_1_1?s=books&ie=UTF8&qid=1454403694&sr=1-1&keywords=the+doom+that+came+to+gotham)
+
+
+## Previous meetups
+
+***
+
+### [The Private Eye](http://www.thecomicbookclub.co.uk/private-eye/)
 
 ***
 
 _January 07, 2016_ - Hosted by [@tomwe](https://twitter.com/tomwe)
-
-#### The Private Eye
  
 * Buy hard copy from [The Book Depository](http://www.bookdepository.com/book/9781632155726?redirected=true&selectCurrency=GBP&w=AFC7AU96S08969A8Z94R&gclid=CNqdyoa778kCFYoBwwodXD0PJw)
 * Available as a 'pay-what-you-want' digital download from [Panel Syndicate](http://panelsyndicate.com/comics/tpeye)
 
 
-## Previous meetups
+
+***
 
 _CHRISTMAS SPECIAL!_
 
-### Tokyo Days Bangkok Nights
+### [Tokyo Days Bangkok Nights](http://www.thecomicbookclub.co.uk/klaus/)
 
 _Plus special Christmas bonus book - Klaus_
 
