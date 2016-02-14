@@ -16,7 +16,21 @@ We meet roughly once a month to discuss the chosen comic book. Meetups are frien
 
 ***
 
-### Batman - The Doom That Came To Gotham
+### The Metabarons Volume 1: Othon
+
+***
+
+_March 24, 2016_ - Hosted by [@dandineen](https://twitter.com/dandineen)
+ 
+* Buy individual digital volumes from [Comixology](https://www.comixology.co.uk/The-Metabarons-Vol-1-Othon/digital-comic/188488?ref=c2VyaWVzL3ZpZXcvZGVza3RvcC9ncmlkTGlzdC9CYW5kZXNEZXNzaW5lcw)
+* Buy the **rather pricey** multi-volume hardback special edition from [Amazon](http://www.amazon.co.uk/Metabarons-Humanoids-40th-Anniversary/dp/159465106X/ref=sr_1_1?ie=UTF8&qid=1455485699&sr=8-1&keywords=The+Metabarons)
+
+
+## Previous meetups
+
+***
+
+### Batman - The Doom That Came To Gotham _(Write up coming soon!)_
 
 ***
 
@@ -25,8 +39,6 @@ _February 11, 2016_ - Hosted by [@chao_xian](https://twitter.com/chao_xian)
 * Buy digital from [Comixology](https://www.comixology.co.uk/Batman-The-Doom-That-Came-To-Gotham-2001-2002/digital-comic/317681?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC9pdGVtU2xpZGVy)
 * Buy hard copy from [Amazon](http://www.amazon.co.uk/Batman-Doom-That-Came-Gotham/dp/1401258069/ref=sr_1_1?s=books&ie=UTF8&qid=1454403694&sr=1-1&keywords=the+doom+that+came+to+gotham)
 
-
-## Previous meetups
 
 ***
 
