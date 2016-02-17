@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Batman - The Doom That Came To Gotham"
+title: "Batman: The Doom That Came To Gotham"
 description: "The promise of HP Lovecraft fused with Batman"
 author: Chao Xian
 tags: [review]
@@ -12,7 +12,7 @@ image:
 
 Sounds like a delicious combination does it not? A dark and gothic noir Batman in a loveletter to Lovecraft. And those Mike Mignola covers are enticing!
 
-Well what a let down.
+Well what a let down [Batman: The Doom That Came To Gotham](http://www.dccomics.com/graphic-novels/batman-the-doom-that-came-to-gotham) is.
 
 I was fairly ambivalent to the writing's mediocrity, but the artwork is infuriating. Well I was furious because I could probably render faces better than this book's depictions, yet these professionals were paid to draw the hallowed Batman.
 
