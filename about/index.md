@@ -3,9 +3,9 @@ layout: page
 title: About the Comic Book Club
 author: Chao Xian
 image:
-  feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: DCBC-colour.jpg
+  credit: tomwe
+  creditlink: https://twitter.com/tomwe
 comments: false
 modified: 2015-08-25
 ---

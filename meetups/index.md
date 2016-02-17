@@ -3,9 +3,9 @@ layout: page
 title: The Comic Book Club meetups
 author: Dan Dineen
 image:
-  feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: DCBC-colour.jpg
+  credit: tomwe
+  creditlink: https://twitter.com/tomwe
 comments: false
 modified: 2015-10-04
 ---
@@ -21,7 +21,7 @@ We meet roughly once a month to discuss the chosen comic book. Meetups are frien
 ***
 
 _March 24, 2016_ - Hosted by [@dandineen](https://twitter.com/dandineen)
- 
+
 * Buy individual digital volumes from [Comixology](https://www.comixology.co.uk/The-Metabarons-Vol-1-Othon/digital-comic/188488?ref=c2VyaWVzL3ZpZXcvZGVza3RvcC9ncmlkTGlzdC9CYW5kZXNEZXNzaW5lcw)
 * Buy the **rather pricey** multi-volume hardback special edition from [Amazon](http://www.amazon.co.uk/Metabarons-Humanoids-40th-Anniversary/dp/159465106X/ref=sr_1_1?ie=UTF8&qid=1455485699&sr=8-1&keywords=The+Metabarons)
 
@@ -35,7 +35,7 @@ _March 24, 2016_ - Hosted by [@dandineen](https://twitter.com/dandineen)
 ***
 
 _February 11, 2016_ - Hosted by [@chao_xian](https://twitter.com/chao_xian)
- 
+
 * Buy digital from [Comixology](https://www.comixology.co.uk/Batman-The-Doom-That-Came-To-Gotham-2001-2002/digital-comic/317681?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC9pdGVtU2xpZGVy)
 * Buy hard copy from [Amazon](http://www.amazon.co.uk/Batman-Doom-That-Came-Gotham/dp/1401258069/ref=sr_1_1?s=books&ie=UTF8&qid=1454403694&sr=1-1&keywords=the+doom+that+came+to+gotham)
 
@@ -47,7 +47,7 @@ _February 11, 2016_ - Hosted by [@chao_xian](https://twitter.com/chao_xian)
 ***
 
 _January 07, 2016_ - Hosted by [@tomwe](https://twitter.com/tomwe)
- 
+
 * Buy hard copy from [The Book Depository](http://www.bookdepository.com/book/9781632155726?redirected=true&selectCurrency=GBP&w=AFC7AU96S08969A8Z94R&gclid=CNqdyoa778kCFYoBwwodXD0PJw)
 * Available as a 'pay-what-you-want' digital download from [Panel Syndicate](http://panelsyndicate.com/comics/tpeye)
 
@@ -66,7 +66,7 @@ _Plus special Christmas bonus book - Klaus_
 _December 09, 2015_ - Hosted by [@tygertale](https://twitter.com/tygertale)
 
 #### Tokyo Days Bangkok Nights
- 
+
 * Buy hard copy from [Amazon](http://www.amazon.co.uk/Tokyo-Days-Bangkok-Nights-TP/dp/1401221890/ref=sr_1_1?ie=UTF8&qid=1445964029&sr=8-1&keywords=tokyo+days+bangkok+nights)
 
 #### Klaus
@@ -98,7 +98,7 @@ _November 26, 2015_ - Hosted by [@dandineen](https://twitter.com/dandineen)
 _October 10, 2015_ - Hosted by [@chao_xian](https://twitter.com/chao_xian)
 
 * Buy digital from [Comixology](https://www.comixology.co.uk/Hip-Hop-Family-Tree-Vol-1/digital-comic/49434)  
-* Buy hard copy from [The Hive](http://www.hive.co.uk/Product/Ed-Piskor/Hip-Hop-Family-Tree/15091989) 
+* Buy hard copy from [The Hive](http://www.hive.co.uk/Product/Ed-Piskor/Hip-Hop-Family-Tree/15091989)
 
 ***
 
@@ -109,7 +109,7 @@ _October 10, 2015_ - Hosted by [@chao_xian](https://twitter.com/chao_xian)
 _September 10, 2015_ - Hosted by [@tomwe](https://twitter.com/tomwe)
 
 * Buy digital from [Comixology](https://www.comixology.co.uk/Daytripper/digital-comic/48376?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC9pdGVtU2xpZGVy)  
-* Buy hard copy from [The Book Depository](http://www.bookdepository.com/Daytripper-Fabio-Moon/9781401229696) 
+* Buy hard copy from [The Book Depository](http://www.bookdepository.com/Daytripper-Fabio-Moon/9781401229696)
 
 
 ***
@@ -119,8 +119,8 @@ _September 10, 2015_ - Hosted by [@tomwe](https://twitter.com/tomwe)
 ***
 
 _August 24, 2015_ - Hosted by [@tygertale](https://twitter.com/tygertale)
- 
-* Buy hard copy from [Amazon](http://www.amazon.co.uk/Adventures-Blake-Mortimer-Yellow-v/dp/190546021X/ref=sr_1_1?ie=UTF8&qid=1443969207&sr=8-1&keywords=The+Yellow+M) 
+
+* Buy hard copy from [Amazon](http://www.amazon.co.uk/Adventures-Blake-Mortimer-Yellow-v/dp/190546021X/ref=sr_1_1?ie=UTF8&qid=1443969207&sr=8-1&keywords=The+Yellow+M)
 
 
 ***
@@ -132,7 +132,7 @@ _August 24, 2015_ - Hosted by [@tygertale](https://twitter.com/tygertale)
 _July 09, 2015_ - Hosted by [@dandineen](https://twitter.com/dandineen)
 
 * Buy digital from [Comixology](https://www.comixology.co.uk/The-Auteur-Vol-1-Presidents-Day/digital-comic/135346?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC9pdGVtU2xpZGVy)  
-* Buy hard copy from [The Book Depository](http://www.bookdepository.com/Auteur-Book-one-Rick-C-Spears/9781620101353) 
+* Buy hard copy from [The Book Depository](http://www.bookdepository.com/Auteur-Book-one-Rick-C-Spears/9781620101353)
 
 
 ***
