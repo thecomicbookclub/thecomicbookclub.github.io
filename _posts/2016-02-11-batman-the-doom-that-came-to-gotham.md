@@ -45,7 +45,7 @@ Tom didn't hate it either but liked it far more than I did. He described it as, 
 
 He noted that Ra's Al Ghul's portrayal as a bearded, ancient immortal attempting to awaken otherworldy monsters to bring about the destruction of the world was a carbon copy of [Grigori Rasputin](http://hellboy.wikia.com/wiki/Grigori_Rasputin) in [volume 1 of Hellboy](http://hellboy.wikia.com/wiki/Seed_of_Destruction).
 
-He thought it interesting but not a classic and felt that Kthulu has been done to death now. Maybe back in 2000 it was a fresher theme.
+He thought it interesting but not a classic and felt that Cthulhu has been done to death now. Maybe back in 2000 it was a fresher theme.
 
 ---
 :star::star::star:
