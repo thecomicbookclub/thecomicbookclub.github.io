@@ -18,8 +18,8 @@ I've had a bit of clear out. Here are a selection of books that I've got round t
 
 * Marvel Knights Spider-Man #1-12 - Mark Millar and Terry Dodson
 * Leave It To Chance - James Robinson and Paul Smith
-* A Complete Lowlife - Ed Brubaker
-* I Kill Giants - Joe Kelly & JM Kim Niimura
+* <del>A Complete Lowlife - Ed Brubaker</del>
+* <del>I Kill Giants - Joe Kelly & JM Kim Niimura</del>
 * Gunsmith Cats: The Return of Gray - Kenichi Sonada
 * Kick Ass vol 1 #1-8 - Mark Millar and John Romita Jr
 * Kick Ass HC vols 1 and 2 - Mark Millar and John Romita Jr
