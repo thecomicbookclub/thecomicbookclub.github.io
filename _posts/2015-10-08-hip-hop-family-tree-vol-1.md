@@ -56,7 +56,7 @@ Check out this [10 hour Hip Hop Family Tree Spotify playlist](https://open.spoti
 
 Events in history can be uninteresting if you don't realise their significance. I had an extraordinary history lesson as I read Piskor's depiction of how the video for Blondie's Rapture was produced.
 
-![Blondie's Rapture]({{site.url}}/images/comic/rapture.jpg)
+[![Blondie's Rapture]({{site.url}}/images/comic/rapture.jpg)]({{site.url}}/images/comic/rapture.jpg)]
 
 At that same moment the video came on the telly.
 
@@ -89,7 +89,7 @@ Tom read the digital version too. He alerted me to the Fantagraphics sale on Com
 
 The book was also hard work for Tom but he took the appropriate step of reading it a bit at a time.
 
-![Tom's version of Hip Hop Family Tree Volume 1]({{site.url}}/images/comic/hip-hop-family-tree-volume-1-boxset-cover.jpg)
+[![Tom's version of Hip Hop Family Tree Volume 1]({{site.url}}/images/comic/hip-hop-family-tree-volume-1-boxset-cover.jpg)]({{site.url}}/images/comic/hip-hop-family-tree-volume-1-boxset-cover.jpg)
 
 Tom didn't have more to add to what we'd already said but had a lovely anecdote of his brother once breakdancing. Then his grandad decided to breakdance too!
 
