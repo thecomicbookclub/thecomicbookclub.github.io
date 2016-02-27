@@ -47,8 +47,8 @@ I've had a bit of clear out. Here are a selection of books that I've got round t
 * Behind The Sofa: Celebrity Memories of Doctor Who
 * A Guide to the Star Wars Universe
 
-![Swaps](/images/swaps/comic-swaps.jpg)
+[![Swaps]({{site.url}}/images/swaps/comic-swaps.jpg)]({{site.url}}/images/swaps/comic-swaps.jpg)
 
-![Swaps](/images/swaps/comic-swaps2.jpg)
+[![Swaps]({{site.url}}/images/swaps/comic-swaps2.jpg)]({{site.url}}/images/swaps/comic-swaps2.jpg)
 
-![Swaps](/images/swaps/books.jpg)
+[![Swaps]({{site.url}}/images/swaps/books.jpg)]({{site.url}}/images/swaps/books.jpg)
