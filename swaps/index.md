@@ -16,8 +16,8 @@ I've had a bit of clear out. Here are a selection of books that I've got round t
 
 ### Graphic Novels and comics
 
-* Marvel Knights Spider-Man #1-12 - Mark Millar and Terry Dodson
-* Leave It To Chance - James Robinson and Paul Smith
+* <del>Marvel Knights Spider-Man #1-12 - Mark Millar and Terry Dodson</del>
+* <del>Leave It To Chance - James Robinson and Paul Smith</del>
 * <del>A Complete Lowlife - Ed Brubaker</del>
 * <del>I Kill Giants - Joe Kelly & JM Kim Niimura</del>
 * Gunsmith Cats: The Return of Gray - Kenichi Sonada
@@ -29,14 +29,14 @@ I've had a bit of clear out. Here are a selection of books that I've got round t
 * FCBD 2015 Doctor Who
 * <del>Umbrella Academy #1-6 - Gerard Way and Gabriel Bá</del>
 * Showcase Green Lantern vol 1
-* New Frontier vols 1 and 2 - Darwyn Cooke
-* Sin City: Hell and Back - Frank Miller
-* JLA Year 1 - Mark Waid and Barry Kitson
+* <del>New Frontier vols 1 and 2 - Darwyn Cooke</del>
+* <del>Sin City: Hell and Back - Frank Miller</del>
+* <del>JLA Year 1 - Mark Waid and Barry Kitson</del>
 * Superman: No Limits - various
 * Superman: End Game - various
 * Preacher book 8: All Hell's A-Coming - Garth Ennis and Steve Dillon
 * Showcase Superman vol 1
-* The Authority vol 1: Relentless - Warren Ellis and Bryan Hitch
+* <del>The Authority vol 1: Relentless - Warren Ellis and Bryan Hitch</del>
 
 
 ### Geek related books
