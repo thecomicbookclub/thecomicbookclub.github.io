@@ -27,7 +27,7 @@ I've had a bit of clear out. Here are a selection of books that I've got round t
 * Green Lantern: No Fear - Geoff Johns, Carlos Pacheco
 * Star Man vol 1: Sins of the Father - James Robinson and Tony Harris
 * FCBD 2015 Doctor Who
-* Umbrella Academy #1-6 - Gerard Way and Gabriel Bá
+* <del>Umbrella Academy #1-6 - Gerard Way and Gabriel Bá</del>
 * Showcase Green Lantern vol 1
 * New Frontier vols 1 and 2 - Darwyn Cooke
 * Sin City: Hell and Back - Frank Miller
