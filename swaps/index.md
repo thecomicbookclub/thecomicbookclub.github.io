@@ -20,12 +20,12 @@ I've had a bit of clear out. Here are a selection of books that I've got round t
 * <del>Leave It To Chance - James Robinson and Paul Smith</del>
 * <del>A Complete Lowlife - Ed Brubaker</del>
 * <del>I Kill Giants - Joe Kelly & JM Kim Niimura</del>
-* Gunsmith Cats: The Return of Gray - Kenichi Sonada
+* <del>Gunsmith Cats: The Return of Gray - Kenichi Sonada</del>
 * Kick Ass vol 1 #1-8 - Mark Millar and John Romita Jr
 * Kick Ass HC vols 1 and 2 - Mark Millar and John Romita Jr
 * Green Lantern: Rebirth - Geoff Johns and Ethan Van Sciver
 * Green Lantern: No Fear - Geoff Johns, Carlos Pacheco
-* Star Man vol 1: Sins of the Father - James Robinson and Tony Harris
+* <del>Star Man vol 1: Sins of the Father - James Robinson and Tony Harris</del>
 * FCBD 2015 Doctor Who
 * <del>Umbrella Academy #1-6 - Gerard Way and Gabriel Bá</del>
 * Showcase Green Lantern vol 1
