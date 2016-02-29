@@ -44,7 +44,7 @@ I've had a bit of clear out. Here are a selection of books that I've got round t
 * Bart Simpson's Spine Tingling Spooktacular
 * A Blazing World: The Unofficial Companion to League Of Extraordinary Gentlemen Vol 2
 * Haynes Manual: The Millenium Falcon
-* Behind The Sofa: Celebrity Memories of Doctor Who
+* <del>Behind The Sofa: Celebrity Memories of Doctor Who</del>
 * A Guide to the Star Wars Universe
 
 [![Swaps]({{site.url}}/images/swaps/comic-swaps.jpg)]({{site.url}}/images/swaps/comic-swaps.jpg)
