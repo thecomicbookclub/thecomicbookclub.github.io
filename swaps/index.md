@@ -26,7 +26,7 @@ I've had a bit of clear out. Here are a selection of books that I've got round t
 * Green Lantern: Rebirth - Geoff Johns and Ethan Van Sciver
 * Green Lantern: No Fear - Geoff Johns, Carlos Pacheco
 * <del>Star Man vol 1: Sins of the Father - James Robinson and Tony Harris</del>
-* FCBD 2015 Doctor Who
+* <del>FCBD 2015 Doctor Who</del>
 * <del>Umbrella Academy #1-6 - Gerard Way and Gabriel Bá</del>
 * Showcase Green Lantern vol 1
 * <del>New Frontier vols 1 and 2 - Darwyn Cooke</del>
