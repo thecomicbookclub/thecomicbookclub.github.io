@@ -56,7 +56,7 @@ Kelv felt that the treatment of women throughout was very unpleasant, with them 
 > It's so bad it is really quite good
 > -- <cite>Kelvin</cite>
 
-However both Tom and Jake felt that the story might well have felt a bit more... epic had we read it in its original form (8 volumes released over the course of 12 or so years). Things do get a bit confusing and it’s easy to lose track of motives, origins and relationships as Jodorowsky merrily smushes characters together or erases them on a whim. 
+Tom and Jake felt that the story might well have felt a bit more... epic had we read it in its original form (8 volumes released over the course of 12 or so years). Things do get a bit confusing and it’s easy to lose track of motives, origins and relationships as Jodorowsky merrily smushes characters together or erases them on a whim. 
 
 Although Jake wasn’t completely sold on the story, his interest in the universe and lore surrounding the Metabarons was piqued enough to read The Incal, which features the first appearance of the Metabaron character.
 
