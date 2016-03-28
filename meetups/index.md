@@ -16,7 +16,20 @@ We meet roughly once a month to discuss the chosen comic book. Meetups are frien
 
 ***
 
-### The Metabarons Volume 1: Othon
+### Patience
+
+***
+
+_April 29, 2016_ - Hosted by [@tygertale](https://twitter.com/tygertale)
+
+* Buy the hardback from [Amazon](http://www.amazon.co.uk/Patience-Daniel-Clowes/dp/1910702455/ref=sr_1_1?ie=UTF8&qid=1459190086&sr=8-1&keywords=patience+clowes)
+* Not available digitally at the moment
+
+## Previous meetups
+
+***
+
+### [The Metabarons]({{site.url}}/the-metabarons)
 
 ***
 
@@ -25,12 +38,9 @@ _March 24, 2016_ - Hosted by [@dandineen](https://twitter.com/dandineen)
 * Buy individual digital volumes from [Comixology](https://www.comixology.co.uk/The-Metabarons-Vol-1-Othon/digital-comic/188488?ref=c2VyaWVzL3ZpZXcvZGVza3RvcC9ncmlkTGlzdC9CYW5kZXNEZXNzaW5lcw)
 * Buy the **rather pricey** multi-volume hardback special edition from [Amazon](http://www.amazon.co.uk/Metabarons-Humanoids-40th-Anniversary/dp/159465106X/ref=sr_1_1?ie=UTF8&qid=1455485699&sr=8-1&keywords=The+Metabarons)
 
-
-## Previous meetups
-
 ***
 
-### Batman - The Doom That Came To Gotham _(Write up coming soon!)_
+### [Batman - The Doom That Came To Gotham]({{site.url}}/batman-the-doom-that-came-to-gotham/)
 
 ***
 
