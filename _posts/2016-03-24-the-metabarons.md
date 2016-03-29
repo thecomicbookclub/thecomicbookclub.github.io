@@ -10,7 +10,7 @@ image:
   creditlink: http://www.humanoids.com/book/256#.VvkS4BgkC1w
 ---
 
-The Metabarons is something of an enigma. Spinning out a single character from one of the greatest works of comic fiction, The Incal, and creating and epic story spanning 100s of years seems like a risky thing to do.
+The Metabarons is something of an enigma. Spinning out a single character from one of the greatest works of comic fiction, The Incal, and creating an epic story spanning 100s of years seems like a risky thing to do.
 
 Luckily the author of The Metabarons (and of The Incal), Alexander Jodorowsky, is nuts enough to give it all a real bash. With able assistance on art duties from Argentinian artist Juan Giménez, the duo have crafted a bizarre, sprawling epic that's part Greek tragedy, part Dune, part Heavy Metal magazine and 100% operatic space weirdness.
 
