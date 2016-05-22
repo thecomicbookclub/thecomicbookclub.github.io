@@ -16,16 +16,44 @@ We meet roughly once a month to discuss the chosen comic book. Meetups are frien
 
 ***
 
-### Patience
+### Wonder Woman Earth One
+
+***
+
+_June 23, 2016_ - Hosted by [@chao_xian](https://twitter.com/chao_xian)
+
+* Buy digital from [Comixology](https://www.comixology.co.uk/Wonder-Woman-Earth-One-Vol-1/digital-comic/357727?ref=c2VyaWVzL3ZpZXcvZGVza3RvcC9ncmlkTGlzdC9Db2xsZWN0ZWRFZGl0aW9ucw)
+* Buy the hardback from [Amazon](https://www.amazon.co.uk/Wonder-Woman-Earth-One-Vol/dp/1401229786/ref=sr_1_1?ie=UTF8&qid=1463932746&sr=8-1&keywords=wonder+woman+earth+one+vol.+1)
+
+
+
+## Previous meetups
+
+***
+
+### Sing No Evil _(Awaiting write-up)_
+
+***
+
+_May 19, 2016_ - Hosted by [@tomwe](https://twitter.com/tomwe)
+
+* Not available digitally at the moment
+* Buy the softback from [Amazon](https://www.amazon.co.uk/Sing-No-Evil-J-Ahonen/dp/1419713604/ref=sr_1_1?ie=UTF8&qid=1463932608&sr=8-1&keywords=sing+no+evil)
+
+
+
+***
+
+### Patience _(Awaiting write-up)_
 
 ***
 
 _April 29, 2016_ - Hosted by [@tygertale](https://twitter.com/tygertale)
 
-* Buy the hardback from [Amazon](http://www.amazon.co.uk/Patience-Daniel-Clowes/dp/1910702455/ref=sr_1_1?ie=UTF8&qid=1459190086&sr=8-1&keywords=patience+clowes)
 * Not available digitally at the moment
+* Buy the hardback from [Amazon](http://www.amazon.co.uk/Patience-Daniel-Clowes/dp/1910702455/ref=sr_1_1?ie=UTF8&qid=1459190086&sr=8-1&keywords=patience+clowes)
 
-## Previous meetups
+
 
 ***
 
@@ -38,6 +66,8 @@ _March 24, 2016_ - Hosted by [@dandineen](https://twitter.com/dandineen)
 * Buy individual digital volumes from [Comixology](https://www.comixology.co.uk/The-Metabarons-Vol-1-Othon/digital-comic/188488?ref=c2VyaWVzL3ZpZXcvZGVza3RvcC9ncmlkTGlzdC9CYW5kZXNEZXNzaW5lcw)
 * Buy the **rather pricey** multi-volume hardback special edition from [Amazon](http://www.amazon.co.uk/Metabarons-Humanoids-40th-Anniversary/dp/159465106X/ref=sr_1_1?ie=UTF8&qid=1455485699&sr=8-1&keywords=The+Metabarons)
 
+
+
 ***
 
 ### [Batman - The Doom That Came To Gotham]({{site.url}}/batman-the-doom-that-came-to-gotham/)
@@ -48,6 +78,7 @@ _February 11, 2016_ - Hosted by [@chao_xian](https://twitter.com/chao_xian)
 
 * Buy digital from [Comixology](https://www.comixology.co.uk/Batman-The-Doom-That-Came-To-Gotham-2001-2002/digital-comic/317681?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC9pdGVtU2xpZGVy)
 * Buy hard copy from [Amazon](http://www.amazon.co.uk/Batman-Doom-That-Came-Gotham/dp/1401258069/ref=sr_1_1?s=books&ie=UTF8&qid=1454403694&sr=1-1&keywords=the+doom+that+came+to+gotham)
+
 
 
 ***
