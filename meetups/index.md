@@ -37,7 +37,7 @@ _June 23, 2016_ - Hosted by [@chao_xian](https://twitter.com/chao_xian)
 
 _May 19, 2016_ - Hosted by [@tomwe](https://twitter.com/tomwe)
 
-* Not available digitally at the moment
+* Buy Digital from [Comixology](https://www.comixology.co.uk/Sing-No-Evil/digital-comic/144666?ref=c2VyaWVzL3ZpZXcvZGVza3RvcC9ncmlkTGlzdC9HcmFwaGljTm92ZWxz)
 * Buy the softback from [Amazon](https://www.amazon.co.uk/Sing-No-Evil-J-Ahonen/dp/1419713604/ref=sr_1_1?ie=UTF8&qid=1463932608&sr=8-1&keywords=sing+no+evil)
 
 
