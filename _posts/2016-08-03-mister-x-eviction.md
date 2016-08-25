@@ -11,11 +11,11 @@ image:
   creditlink: https://www.darkhorse.com/Books/17-218/Mister-X-Eviction-Other-Stories-TPB
 ---
 
-Radiant City - a city so experimental, so radical in concept, that its psychetecture slowly drives its inhabitants mad. The mysterious Mr X has returned to the sick city he designed to try and make amends.
+Radiant City - a city so experimental, so radical in concept, that its psychetecture slowly drives its inhabitants mad. The mysterious Mister X has returned to the sick city he designed to try and make amends.
 
 [![The mysterious Mister X returns to Radiant City]({{site.url}}/images/comic/mister-x/mister-x-returns.jpg)]({{site.url}}/images/comic/mister-x/mister-x-returns.jpg)
 
-Modern fiction has a long-held obsession with cities and the madness they induce. Therein lies Mr X: Eviction’s biggest problem - We’ve seen all of this before. And better. Much, much better.
+Modern fiction has a long-held obsession with cities and the madness they induce. Therein lies Mister X: Eviction’s biggest problem - We’ve seen all of this before. And better. Much, much better.
 
 It's Warren Ellis’ urban-insanity epic Transmetropolitan with all the anarchic joy surgically removed, Chandler’s trench coat noir without any snappy hardboiled dialogue or Metroplis’ stark retro-futurism filtered through a cold, dull palette.
 
@@ -32,7 +32,7 @@ Most frustrating were the lengthy flashbacks that often entailed a page or two o
 
 The hardboiled noir-ish approach felt tired to all. One story in the collection about a kidnapped spoilt heiress was such a noir archetype that the whole thing felt redundant as soon as it had begun. We knew the story beats, and could easily predict where it would end up.
 
-> Mr X is mad like an accountant is mad
+> Mister X is mad like an accountant is mad
 >
 > -- <cite>[@tygertale](https://twitter.com/tygertale)</cite>
 
@@ -40,7 +40,7 @@ The hardboiled noir-ish approach felt tired to all. One story in the collection 
 
 Dean Motter’s simple, clean art had received rave reviews by a number of high-profile comic creators. Tom simply saw lesser versions of an art style perfected by other artists such as Matt Wagner and Will Eisner. He was deeply unimpressed with the design of the characters, the execution and the styling throughout the book.
 
-I couldn’t help but agree with Tom’s assessment, although both Kelv and I found some joy in Motter’s more graphic panels where his architectural background shone through.
+I couldn’t help but agree with Tom’s assessment, although both Kelv and I found some joy in Motter’s graphical panels where his architectural background shone through.
 
 [![Motter's more-graphically influenced panels are far stronger]({{site.url}}/images/comic/mister-x/mister-x-graphic.jpg)]({{site.url}}/images/comic/mister-x/mister-x-graphic.jpg)
 
@@ -60,9 +60,9 @@ But that was pretty much it.
 
 # Mister X sans Motter
 
-Kelv, Tom and Jake thought that Mr X might well stand a better chance in the hands in the hands of a creator other than Motter. This theory seemed to be borne out by a another anthology of Mr X stories by creators other than Motter which Jake enjoyed far more than Mister X: Eviction.
+Kelv, Tom and Jake thought that Mister X might well stand a better chance in the hands in the hands of a creator other than Motter. This theory seemed to be borne out by a another anthology of Mister X stories by creators other than Motter which Jake enjoyed far more than Eviction.
 
-Kelvin was excited to learn that the original Mr X series from the 90s was drawn by the Hernandez Bros. and thought he might give that a go instead.
+Kelvin was excited to learn that the original Mister X series from the 90s was drawn by the Hernandez Bros. and thought he might give that a go instead.
 
 Tom was not the only person to wonder whether the Hernandez Bros. had done more than just draw the original, with the unspoken suggestion being that Motter was nothing but the originator of the concept and occasional contributor. 
 
