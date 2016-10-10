@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wonder Woman Earth One by Grant Morrison and Yanick Paquette"
-description: "High hopes for Grant Morrison's take on Wonder Woman fall flat"
+description: "Grant Morrison tones down the weird to deliver a his version of Wonder Woman's origin story"
 tags: [review]
 modified: 2016-06-23
 author: Chao Xian

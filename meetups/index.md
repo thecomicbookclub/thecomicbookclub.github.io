@@ -16,7 +16,34 @@ We meet roughly once a month to discuss the chosen comic book. Meetups are frien
 
 ***
 
-### Wonder Woman Earth One
+### The Encyclopedia of Early Earth
+
+***
+
+_September 01, 2016_ - Hosted by [@tygertale](https://twitter.com/tygertale)
+
+* Buy digital from [Amazon Kindle](https://www.amazon.co.uk/Encyclopedia-Early-Earth-Isabel-Greenberg-ebook/dp/B00QOQU0GI/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1472112195&sr=8-1)
+* Buy the hardback from [Amazon](https://www.amazon.co.uk/Encyclopedia-Early-Earth-Isabel-Greenberg/dp/0224097199/ref=sr_1_1?ie=UTF8&qid=1472112195&sr=8-1&keywords=Encyclopedia+of+early+earth)
+
+
+
+## Previous meetups
+***
+
+### [Mister X: Eviction]({{site.url}}/mister-x-eviction)
+
+***
+
+_August 03, 2016_ - Hosted by [@dandineen](https://twitter.com/dandineen)
+
+* Buy digital from [Comixology](https://www.comixology.co.uk/Mister-X-Eviction/digital-comic/232935?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC9pdGVtU2xpZGVy)
+* Buy the softback from [Amazon](https://www.amazon.co.uk/Mister-X-Eviction-Dean-Motter/dp/1616552352/ref=sr_1_1?ie=UTF8&qid=1472112054&sr=8-1&keywords=Mister+X+Eviction)
+
+
+
+***
+
+### [Wonder Woman Earth One]({{site.url}}/wonder-woman-earth-one)
 
 ***
 
@@ -27,11 +54,9 @@ _June 23, 2016_ - Hosted by [@chao_xian](https://twitter.com/chao_xian)
 
 
 
-## Previous meetups
-
 ***
 
-### Sing No Evil _(Awaiting write-up)_
+### [Sing No Evil]({{site.url}}/sing-no-evil)
 
 ***
 
@@ -44,7 +69,7 @@ _May 19, 2016_ - Hosted by [@tomwe](https://twitter.com/tomwe)
 
 ***
 
-### Patience _(Awaiting write-up)_
+### [Patience]({{site.url}}/patience)
 
 ***
 
