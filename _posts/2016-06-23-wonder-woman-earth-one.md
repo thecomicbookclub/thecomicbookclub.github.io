@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wonder Woman Earth One by Grant Morrison and Yanick Paquette"
-description: "With a face melting power chord, our first year of comicbooks is wrapped up by Sing No Evil"
+description: "High hopes for Grant Morrison's take on Wonder Woman fall flat"
 tags: [review]
 modified: 2016-06-23
 author: Chao Xian
