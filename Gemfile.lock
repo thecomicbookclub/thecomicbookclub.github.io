@@ -213,6 +213,3 @@ DEPENDENCIES
   rubocop
   sass
   thin
-
-BUNDLED WITH
-   1.11.2
