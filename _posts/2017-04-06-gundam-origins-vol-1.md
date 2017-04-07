@@ -15,9 +15,11 @@ They say you should never judge a book by its cover but wow look at this one. It
 
 [![The cover to Mobile Suit Gundam Origin vol 1 Activation]({{site.url}}/images/comic/gundam-origin/cover.jpg)]({{site.url}}/images/comic/gundam-origin/cover.jpg)
 
-## Jake
+Be prepared for a long ramble about what I patchily know of Gundam. It is both comfortingly familiar to me and also a mystery. The familiarity stems from the whole brand being so iconic, yet a mystery because I never really delved into it. But before I bore you with my love of giant-robo mecha suits, let's hear from someone who doesn't really like giant robots.
 
-Never heard of it. Thought it looked familiar. Is this Transformers then realised it predates Transformers.
+## Giant robots are not for me
+
+Jake had never heard of it, but thought it looked familiar: "Is this Transformers?" he initially thought, then realised it predates Transformers.
 
 Colours beautiful. Arresting even in black and white. Then really quickly couln't work out what was going on in the space battles
 
