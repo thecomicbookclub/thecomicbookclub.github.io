@@ -11,178 +11,89 @@ image:
   creditlink: http://www.vertical-inc.com/books/gundam.html
 ---
 
-They say you should never judge a book by its cover but wow look at this one. It illicits a wistful excitement in me rooted from a time long ago and far, far away.
+They say you should never judge a book by its cover but wow look at this one. It stirs a wistful excitement in me rooted from a time long ago and far, far away.
 
 [![The cover to Mobile Suit Gundam Origin vol 1 Activation]({{site.url}}/images/comic/gundam-origin/cover.jpg)]({{site.url}}/images/comic/gundam-origin/cover.jpg)
 
 Be prepared for a long ramble about what I patchily know of Gundam. It is both comfortingly familiar to me and also a mystery. The familiarity stems from the whole brand being so iconic, yet a mystery because I never really delved into it. But before I bore you with my love of giant-robo mecha suits, let's hear from someone who doesn't really like giant robots.
 
-## Giant robots are not for me
+## Jake and the giant robots
 
-Jake had never heard of it, but thought it looked familiar: "Is this Transformers?" he initially thought, then realised it predates Transformers.
+Let's start with what he didn't get on with. He found it a bit of a confusing mess. Although he questioned whether he just wasn't used to the genre, and was unable to fill in space. He also sometimes struggled distinguish the spaceships from the robots.
 
-Colours beautiful. Arresting even in black and white. Then really quickly couln't work out what was going on in the space battles
+Jake couldn't work out what was going on in the space battles. The confusion combined with Jake's disengagement with the characters led to him admitting he didn't really pay much attention to it. He was rather disinterested in the Battlestar Galactica plot.
 
-Is it the genre and I'm not able to fill the spaces?
+What he did like was the art. Particularly the colour segments, calling it arresting. He wished it was all in colour. Despite not liking most of the characters, he did single out Char Aznable - the dashing arch-nemesis of our rather bland protagonist. He found it amusing how hard-assed Sayla Mass gasps at Char when he removes his helmet to reveal his handsome visage, noting it as superb.
 
-Didn't follow it very to an extent
+Jake conceded that the book looked dead cool though.
 
-Couldn't tell spaceships apart or even the robots.
+---
 
-(black and white)
+:star::star:
 
-Breath of fresh air back in colour.
+> Giant robots are not for me. There were no farting sharks.
+>
+> -- <cite>[@tygertale](https://twitter.com/tygertale)</cite>
 
-Didn't realise they weren't on Earth until the end. Must have not taken in the intro that explained "sides" but read it late in the night.
 
-Battlestar Galactica plot.
+## Confused Dan
 
-Partly not concentraing - but when I do that there's a reason. Disinterest in the story. Familiar.
+Dan echoed much of the same points as Jake, citing his loss of sense of scale in the opening scene. He didn't realise the Zaku were giant robots at first. He was also unsure who were the goodies and the baddies.
 
-The characters didn't really engage. Didn't realise the protagonist was related to the guy who designed the RX-78. Re-read it to give it another chance, but no. I'm not a giant robot kind of guy.
+He found some of the art absolutely gorgeous and looked absolutely amazing, but Dan wanted to understand what was going on.
 
-A few bits I did like - incl. the baddy (Char). The plucky nurse hard ass girl and she's dazzled by his beauty when he takes off his helmet.
-
-Dunno if intentionally amusing but it was superb.
-
-I thought it was an attractive book and happily look at it. The main robot I like the look of him.  Liked the lightsabers and would've like to see more battles with that.
-
-Wondered if this normal of manga - bits of their face missing (white shadows) liked that
-
-Liked the lettering, sound effects - quite cool
-
-Dead cool
-
-Had it all been in colour I would've enjoyed it in all colour.
-
-Probably great as a cartoon.
-
-Bits I whipped through - what slowed me down was the text. The sentences are broken up, probably the translation plus getting your head into reading the book "backwards".
-
-Getting into the lift with the uptight JR Lieutenant - the staccato text suited. But other bits hammy, badly translated. Felt like Google Translate job.
-
-Got 1/2 way through today and didn't think much better. Appreciated the artwork still. Didn't do enough to pull me in. It's a beautiful thing, a beautiful book.
-
-Giant robots not for me. There were no farting sharks.
-
-Robots fighting in space and the whole physics of it doesn't make sense to me. Like they're fighting on solid ground.
-
-Is it my problem with giant robots or men in suits bursting around in space.
-
-Maybe if they'd been in New York
-
-⭐⭐
-
-## Dan
-
-Really, really confusing - really lost with what the hell was going on. Kept going back and seeing where people are spatially in relation to other people. Struggled with scale. I thought the robots at the beginning were small.
-
-I thought the RX-78 was giant and they were small but then when they fought I was confused.
-
-All the way through struggled with scale.
-
-Maybe it's the styling - struggled how to tell characters apart. Just a bit funny on that one. That threw me out. Found it quite hard to read compared to Gyo.
-
-Took longer.
-
-Some of the art is absolutely gorgeous and looks absolutely amazing. but I wanted to understand what was going on
-
-some people on the good ship that got into the Guntanks - yeah cool I liked the things but I don't know what?
-
-Vague summary of confusion. Right at the start I thought it was going to go 2 shades of grey and one side founded from the Earth Federation and the other are Zeon - which one are the Zeon? Are they on the tubey thing? Until somebody says.
-
-Could be good as a dark military story and quite hard hitting war story and in some cases it was but then red ferret with his super cape turns up and I couldn't stop laughing
-
-conforms to prett much everything - Battle of Planets and Starfleet which formed the shape of what I understnad of these things
-
-flamboyant massive super capes, funny eyes and heltmets
-
-little bit vaguely sad not something dark and gritty and pantomime villain
-
-instead of a REbellion and succession
-
-was hoping to not know who to root for - maybe the Zeon should win!
-
-Amuro - don't care
-
-girl's mum gets killed
-
-explosion and thrown forward
-
-old captain died - but provides good solid advice to privileged nobber - then why am I rooting for this side?
-
-I was quite sad when he died I tgouht he was pretty cool. Would've liked to see him kick some ass
-
-Art was varied
+He supposed that it could be good as a dark military story and quite hard hitting war story, and in some cases it was, but then red ferret with his super cape turns up (I'm assuming he means Char) and Dan found that he couldn't stop laughing.
 
 Some not particularly spectacular to truly spectacular - it feels like it's of its time although it's like Star Wars it drawn as the future and cool but you can feel that it was done in the late 70s/80s
 
-not a fan of the primary colour space robots
+Dan had a number of quibbles but overall enjoyed it. Didn't think it was rubbish at all but not intrigued/engaged enough to read more.
 
-made it feel like a toyline and give it a story
+:star::star::star:
 
-lovely format absolutely beautiful book but hard to hold and would've loved it at half the size
+> I will not be burning it or throwing out the window as I'm driving through Sally In The Woods.
+>
+> -- <cite>[@dandineen](https://twitter.com/dandineen)</cite>
 
-the word balloons are hard work when they obvs have limited space
+## Big Robot Love
 
-the top to bottom words - nothing you could've done
+As a fan of big robots in general having grown up with Transformers, Tom enjoyed it a lot.
 
-it didn't help
+Tom was reminded of this being quite typical of a science fiction setting "cylinder world" as Tom had seen that in other things such as Rendezvous with Rama (Arthur C CLarke). In 2000AD's "Brink" the Earth died, and their colonies were crates in space. Halo Jones too were tubes in space. And recently in The Fuse from Image.
 
-sentence broken up but forgetting which way it goes was confusing (see pg 158)
+Well Tom, here's a fun fact: all of these stories are representing the [O'Neil Colony](https://en.wikipedia.org/wiki/O'Neill_cylinder), a proposal for space colony design by a physicist in the 70s.
 
-Pretty much with Jake. Found it longer to read because trickier. I enjoyed it. Didn't think it wsa rubbish at all but not intrigued/engaged enough to read more. The Gundam striding was amaze-balls. Serious skills.
+Tom enjoyed the story and characters as it went along. Subtly different from "girls in peril" or "upskirt" you'd see. It was well restrained.
 
-A solid ⭐⭐⭐ I will not be burning it or throwing out the window as I'm driving through Sally In The Woods.
+Tom also had the issue of understanding what was going on, but this was only in the "spacey bits. But I just carried on - I'm much more forgiving". He definitely came away having enjoyed it more than the other two.
 
-## Tom
+Tom mentioned a right hand problem: because he has to hold the book in his right hand, he couldn't turn the pages with his other hand easily because the book was "backwards". I suggested he could've held the book in his other hand.
 
-As a fan of big robots in general having grown up with TF I enjoyed it a lot.
+I have to say at this point I'm a little fed up with the complaints about manga being backwards or "wrong way round" and minded to avoid picking manga for this reason in future. On the other hand more exposure might get rid of this problem. Or we're just a bunch of cranky old men.
 
-Was looking forward to it haven't never read or wathced anything of Gundam to know how it differes to any of the others
+:star::star::star::star:
 
-Robotech came before didn't it? (nope)
+> As a fan of big robots it really hit the spot.
+>
+> --<cite>[@tomwe](https://twitter.com/tomwe)</cite>
 
-REad the colour bit first looked really nice
+## Gundam nostalgia for something that never was
 
-remind me of being quite atypical of a science fiction setting "cylinder world" seen that in other things Rendezvous with Rama (AC CLarke)
+I was very much looking forward to this book and enjoyed it immensely. The art was as the others have already attested, quite stunning. I didn't have any of the problems the others encountered and I do wonder if that is because I'm more used/experienced/open to manga? Gundam in particularly has always been something I'm familiar with but not to any real depth. I'm no expert.
 
-2000AD "Brink" earth died, crates in space - pretty much this design
+I know that for Japan this is to them what Star Wars is for many others in the West. I cited a story about how staff from an official (possibly governmental) organisation were sacked because records found they had spent many, many work hours updating wikipedia articles on Gundam. I mentioned the Odaiba statue.
 
-Image - The Fuse
+[![The RX-78 2 statue in Odaiba, Tokyo]({{site.url}}/images/comic/gundam-origin/odaiba.jpg)]({{site.url}}/images/comic/gundam-origin/odaiba.jpg)
 
-Halo Jones - tubes in space
+It was fun to read about how the founding Mobile Suit Gundam TV series was cancelled, but it was the populairty of the licensed plastic model kits that revived it. Now those kits are called "Gunpla" (Gundam Plasic) and the series has spawned so many spin offs it's ridiculous. There's even a series on now about kids who have magical Gunpla that battle each other ala Pokémon. Gundam is the very epitome of iconic.
 
-Same problem had no idea the first suits were big
+As a child growing up in SE Asia for a while I was exposed to Gundam but only as tantalising imagery. Never had I actually seen the original anime with my own eyes until a kind fellow in the 90s furnished me with VHS copies of the Hong Kong dubs. The guy was a member of the family who ran the best local Chinese restaurant, lived down my road and was a regular customer to the comic book shop I worked in. Sadly I as a hyperactive teen I couldn't get into the anime. I felt bad as it took him an effort to make those tapes but also I was left underwhelmed.
 
-only when you start punching them - sword comes through, oh it's the same scale bit of a disconnect
+This time I'd hoped that I would "get" what Gundam is and I really wasn't disappointed. I think the artwork is what's really won it for me this time. It's exquisite in places. Sometimes breath taking.
 
-enjoyed the story and characters as it went along
+I couldn't help but feel disappointed that not all of my clubmates enjoyed this book. I was really hoping we all would and I had expected that it would be met with universal favour. Alas.
 
-standard sterotypical characters
+:star::star::star::star:
 
-Surprised Frau didn't get into too much trouble
-
-subtly different from "girls in peril" or "upskirt"
-
-well restrained
-
-I also had the issue of understanding what was going on but only the spacey bits when trying to launch the shuttle but something went wrong
-
-but I just carried on - but I'm much more forgiving
-
-there are sections where the art's less well polished
-
-I didn't even pick up on the "unfinished face" so I must be quite used it
-
-fantastic moment when he takes off his helmet "What? Is he her brother?"
-
-At the end his beautiful sister?
-
-the strong female is really unusual
-
-I definitely came away having enjoyed it more than these two
-
-right hand problem (again with the "backwards"!)
-
-⭐⭐⭐⭐ as a fan of big robots and it really hit the spot
+> Beautiful rendering of a truly iconic giant robot
+>
+> -- <cite>[@chao_xian](https://twitter.com/chao_xian)</cite>
