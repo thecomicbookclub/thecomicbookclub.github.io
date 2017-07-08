@@ -44,7 +44,7 @@ He found some of the art absolutely gorgeous and looked absolutely amazing, but 
 
 He supposed that it could be good as a dark military story and quite hard hitting war story, and in some cases it was, but then red ferret with his super cape turns up (I'm assuming he means Char) and Dan found that he couldn't stop laughing.
 
-Some not particularly spectacular to truly spectacular - it feels like it's of its time although it's like Star Wars it drawn as the future and cool but you can feel that it was done in the late 70s/80s
+It went from some not particularly spectacular bits to truly spectacular. It feels like it's of its time, although it's like Star Wars in that it drawn as the future and cool. But you can feel that it was done in the late 70s/80s
 
 Dan had a number of quibbles but overall enjoyed it. Didn't think it was rubbish at all but not intrigued/engaged enough to read more.
 
