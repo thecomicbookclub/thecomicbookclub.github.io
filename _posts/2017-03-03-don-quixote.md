@@ -6,7 +6,7 @@ tags: [review]
 modified: 2017-07-18
 author: Tom Evans
 image:
-  feature: comic/don-quixote/foolAndFool.jpg
+  feature: comic/don-quixote/fool-and-fool.jpg
   credit: Rob Davis
   creditlink: http://www.selfmadehero.com/title.php?isbn=9781906838652&edition_id=218
 ---
@@ -39,7 +39,7 @@ We were split overall as to the better halves of the book. If I have any critici
  
 This book is certainly a contrast some of our more recent choices, and definitely a novel rather than a short read. Jake described it as inventive, with superb colours that reminded him of Lucky Luke, but as it fizzled out a bit and had the whiff of a Guardian reader’s book club gave it ⭐⭐⭐. Kelvin enjoyed it eventually, but only for less than half of it and so matched the ⭐⭐⭐. Dan was surprised that he liked it, as it was not naturally what he would choose to read and gave it ⭐⭐⭐⭐. However, I truly loved reading it and give it ⭐⭐⭐⭐! In fact I loved it so much I went on a bit of a Rob Davis binge afterwards.
 
-![More works by Rob Davis](/images/comic/don-quixote/motherlessOven.jpg)
+![More works by Rob Davis](/images/comic/don-quixote/motherless-oven.jpg)
 
 I picked up not only [The Motherless Oven](http://www.selfmadehero.com/title.php?isbn=9781906838812&edition_id=247), but its sequel [The Can-Opener’s Daughter](http://www.selfmadehero.com/title.php?isbn=9781910593172&edition_id=307) and the 2012 British Comic Awards Book Of The Year: [Nel-Son](http://www.blankslatebooks.co.uk/our-books/nelson/), which was edited by Davis with Woodrow Phoenix and featured a veritable whose who of the British Indie comics scene.  …Oven and …Daughter are an expansion of Davis’ short strip [“How I Built My Father”](http://activatecomix.com/147.comic), which was an off the wall concept but I found it incredible how Davis took that and expanded it into the parallel reality in these two books. I spent most of the first waiting for an explanation of the ‘rules’ of the world, but most of that does not come until later, if at all.  I assume there will be a third part at some point.
 
