@@ -10,9 +10,9 @@ image:
   credit: Steve Parkhouse
   creditlink: https://digital.darkhorse.com/series/199/resident-alien
 ---
-I first saw this book in [an article by Brian K. Vaughan in which he recommended comics he considered unadaptable for movies or TV](https://www.barnesandnoble.com/blog/sci-fi-fantasy/brian-k-vaughan-recommends-10-comics-need-read-theyre-awesomely-unadaptable/). We all love Saga and BKV has a pretty darned good track record so I thought we should give it a bash.
+I first got wind of Resident Alien in [an article by Brian K. Vaughan listing 10 comics he considers unadaptable to movies or TV](https://www.barnesandnoble.com/blog/sci-fi-fantasy/brian-k-vaughan-recommends-10-comics-need-read-theyre-awesomely-unadaptable/). We all love Saga and BKV has pretty darned good (if rather weird) taste so I thought we could give it a bash.
 
-A few of us had heard about the book already. Tom knew both creators as 2000ad alumni. I’d also made the 2000ad connection but my memory was foggy and I kept confusing Steve Parkhouse with the great Jim Burns. In my addled brain their styles are very similar.
+A few of us had heard about the book already. Tom knew both creators as 2000ad alumni. I’d also made the 2000ad connection but my memory was foggy. I knew the name of the writer, Peter Hogan, but couldn't recall any of his previous work. I kept confusing Steve Parkhouse with the great Jim Burns. In my addled brain their styles are very similar.
 
 > Is this seriously from 2013 and not, like, 1991 or something?
 >
@@ -22,7 +22,7 @@ Tom reminded me that Parkhouse was responsible for the art on Big Dave, a notori
 
 [![Big Dave]({{site.url}}/images/comic/resident-alien/ra-big-dave.jpg)]({{site.url}}/images/comic/resident-alien/ra-big-dave.jpg)
 
-I remembered seriously hating that story which did not bode well for a score from me. For once, Kelv had read the book as soon as it had arrived. Apparently his first thought upon breezing through it was “Dan’s not going to like this”. Given it was my pick, things looked bleak&hellip;
+I remembered hating Big Dave with a passion which didn't bode well for Resident Alien. For once, Kelv had read the book as soon as it had arrived. Apparently his first thought upon breezing through it was “Dan’s not going to like this”. Given it was my pick, things looked bleak&hellip;
 
 >  I got the book and immediately thought "This looks a bit sh*t"
 >
