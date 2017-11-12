@@ -16,16 +16,41 @@ We meet roughly once a month to discuss the chosen comic book. Meetups are frien
 
 ***
 
-### The Last American
+### Savage Town
+
+_November 16, 2017_ - Hosted by [@tygertale](https://twitter.com/tygertale)
+
+* Buy digital from [Comixology](https://www.comixology.co.uk/Savage-Town/digital-comic/529090?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC90b3BSZXN1bHRzU2xpZGVy)
+* Buy the softback from [Amazon](https://www.amazon.co.uk/Savage-Town-OGN-Declan-Shalvey/dp/1534302468/ref=sr_1_1?s=books&ie=UTF8&qid=1510515975&sr=1-1&keywords=Savage+town)
+
+
+## Previous meetups
+***
+
+### Kaijumax Vol 1 - _Write-up TBC_
+
+_October 05, 2017_ - Hosted by [@dandineen](https://twitter.com/dandineen)
+
+* Buy digital from [Comixology](https://www.comixology.co.uk/Kaijumax-Vol-1/digital-comic/343031?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC90b3BSZXN1bHRzU2xpZGVy)
+* Buy the softback from [Amazon](https://www.amazon.co.uk/Kaijumax-Season-1-Zander-Cannon/dp/1620102706/ref=sr_1_1?s=books&ie=UTF8&qid=1510515803&sr=1-1&keywords=Kaijumax+season+one)
+
+***
+
+### [The Last American]({{site.url}}/the-last-american/)
 
 _August 04, 2017_ - Hosted by [@tomwe](https://twitter.com/tomwe)
 
 * Buy digital from [Amazon Kindle](https://www.amazon.co.uk/dp/1781085447/ref=sr_1_1?ie=UTF8&qid=1500884853&sr=8-1&keywords=The+last+american)
 * Buy the softback from [Amazon](https://www.amazon.co.uk/dp/1781085447/ref=sr_1_1?ie=UTF8&qid=1500884853&sr=8-1&keywords=The+last+american)
 
+***
 
+### The Adventures of John Blake - _Write-up TBC_
 
-## Previous meetups
+_July 06, 2017_ - Hosted by [@tygertale](https://twitter.com/tygertale)
+
+* Buy the hardback from [Amazon](https://www.amazon.co.uk/Adventures-John-Blake-Mystery-Ghost/dp/0606401954/ref=sr_1_2?ie=UTF8&qid=1510515602&sr=8-2&keywords=The+adventures+of+John+Blake)
+
 ***
 
 ### [Resident Alien]({{site.url}}/resident-alien/)
