@@ -16,15 +16,42 @@ We meet roughly once a month to discuss the chosen comic book. Meetups are frien
 
 ***
 
-### Savage Town
+### Rust Vol 1 Visitor in the field
+
+_March 08, 2018_ - Hosted by [@dandineen](https://twitter.com/dandineen)
+
+* Buy digital from [Comixology](https://www.comixology.co.uk/Rust-Vol-1-A-Visitor-in-the-Field-2016-Edition/digital-comic/434978?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC90b3BSZXN1bHRzU2xpZGVy)
+* Buy the hardback from [The Book Depository](https://www.bookdepository.com/Rust-Volume-1-Royden-Lepp-Rebecca-Taylor/9781936393275?ref=grid-view&qid=1518606837295&sr=1-1)
+
+
+## Previous meetups
+***
+
+### Shadow Hero - _Write-up TBC_
+
+_February 01, 2018_ - Hosted by [@chao_xian](https://twitter.com/chao_xian)
+
+* Buy digital from [Amazon Kindle](https://www.amazon.co.uk/Shadow-Hero-Gene-Luen-Yang-ebook/dp/B00LDR85LK/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1518606899&sr=8-1)
+* Buy the softback from [Amazon](https://www.amazon.co.uk/Shadow-Hero-Luen/dp/1596436972/ref=sr_1_1?ie=UTF8&qid=1518606899&sr=8-1&keywords=shadow+hero)
+
+***
+
+### Black Hammer Vol 1 Secret Origins - _Write-up TBC_
+
+_January 11, 2018_ - Hosted by [@tomwe](https://twitter.com/tomwe)
+
+* Buy digital from [Comixology](https://www.comixology.co.uk/Black-Hammer-Vol-1-Secret-Origins/digital-comic/504790?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC90b3BSZXN1bHRzU2xpZGVy)
+* Buy the softback from [Amazon](https://www.amazon.co.uk/Black-Hammer-1-Secret-Origins/dp/1616557869/ref=sr_1_2?s=books&ie=UTF8&qid=1518606982&sr=1-2&keywords=black+hammer+volume+1)
+
+***
+
+### Savage Town - _Write-up TBC_
 
 _November 16, 2017_ - Hosted by [@tygertale](https://twitter.com/tygertale)
 
 * Buy digital from [Comixology](https://www.comixology.co.uk/Savage-Town/digital-comic/529090?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC90b3BSZXN1bHRzU2xpZGVy)
 * Buy the softback from [Amazon](https://www.amazon.co.uk/Savage-Town-OGN-Declan-Shalvey/dp/1534302468/ref=sr_1_1?s=books&ie=UTF8&qid=1510515975&sr=1-1&keywords=Savage+town)
 
-
-## Previous meetups
 ***
 
 ### Kaijumax Vol 1 - _Write-up TBC_
