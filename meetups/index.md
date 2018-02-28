@@ -63,6 +63,16 @@ _October 05, 2017_ - Hosted by [@dandineen](https://twitter.com/dandineen)
 
 ***
 
+### [Yotsuba&! Vol 1]({{site.url}}/yotsuba/)
+
+_August 31, 2017_ - Hosted by [@chao_xian](https://twitter.com/chao_xian)
+
+Buy digital from [ComiXology](https://www.comixology.co.uk/Yotsuba-Vol-1/digital-comic/455149)
+
+Buy softback from [Amazon](http://amzn.eu/7jwZXxy)
+
+***
+
 ### [The Last American]({{site.url}}/the-last-american/)
 
 _August 04, 2017_ - Hosted by [@tomwe](https://twitter.com/tomwe)
