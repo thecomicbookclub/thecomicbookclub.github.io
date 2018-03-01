@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
+gem 'jekyll', '~> 3.7.3'
+gem 'jekyll-gist'
+gem 'jekyll-paginate'
 gem 'sass'
 gem 'octopress', '~> 3.0.0.rc.12'
 gem 'jekyll-sitemap'
