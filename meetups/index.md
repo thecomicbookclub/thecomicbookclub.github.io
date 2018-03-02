@@ -27,7 +27,7 @@ _March 08, 2018_ - Hosted by [@dandineen](https://twitter.com/dandineen)
 ## Previous meetups
 ***
 
-### Shadow Hero - _Write-up TBC_
+### [Shadow Hero]({{site.url}}/shadow-hero/)
 
 _February 01, 2018_ - Hosted by [@chao_xian](https://twitter.com/chao_xian)
 
@@ -54,7 +54,7 @@ _November 16, 2017_ - Hosted by [@tygertale](https://twitter.com/tygertale)
 
 ***
 
-### Kaijumax Vol 1 - _Write-up TBC_
+### [Kaijumax Vol 1]({{site.url}}/kaijumax/)
 
 _October 05, 2017_ - Hosted by [@dandineen](https://twitter.com/dandineen)
 
