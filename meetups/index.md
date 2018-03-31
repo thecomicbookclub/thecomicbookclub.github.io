@@ -16,15 +16,23 @@ We meet roughly once a month to discuss the chosen comic book. Meetups are frien
 
 ***
 
-### Rust Vol 1 Visitor in the field
+### Isaac the pirate
+
+_TBC_ - Hosted by [@tygertale](https://twitter.com/tygertale)
+
+* This one seems to be a 'find it where you can'. There are some hardcopy versions available from Amazon, occasional copies on Ebay and Waterstones claim to be able to order it. It is not available digitally as far as we are aware. Good luck!
+
+
+## Previous meetups
+***
+
+### [Rust Vol 1 - Visitor in the field]({{site.url}}/rust/)
 
 _March 08, 2018_ - Hosted by [@dandineen](https://twitter.com/dandineen)
 
 * Buy digital from [Comixology](https://www.comixology.co.uk/Rust-Vol-1-A-Visitor-in-the-Field-2016-Edition/digital-comic/434978?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC90b3BSZXN1bHRzU2xpZGVy)
 * Buy the hardback from [The Book Depository](https://www.bookdepository.com/Rust-Volume-1-Royden-Lepp-Rebecca-Taylor/9781936393275?ref=grid-view&qid=1518606837295&sr=1-1)
 
-
-## Previous meetups
 ***
 
 ### [Shadow Hero]({{site.url}}/the-shadow-hero/)
