@@ -7,18 +7,20 @@ image:
   credit: tomwe
   creditlink: https://twitter.com/tomwe
 comments: false
-modified: 2015-08-25
+modified: 2018-08-23
 ---
 
-Founded in 2015 and inspired by the book club that my wife is part of, I ([@chao_xian](https://twitter.com/chao_xian)) decided to start up a Comic Book Club with a few of those local to me who I know are fellow comic book geeks.
+Founded in 2015, I ([@chao_xian](https://twitter.com/chao_xian)) decided to start up a Comic Book Club with a few of those local to me who I know are fellow comic book geeks.
+
+Updated: since moving to London I'm no longer part of the group but am still with my friends in spirit. The other three members continue the club without me. While it saddens me that I don't get to be there with them, it brings me much joy to know that they continue to run the club without me. And I'll be reading from a distance.
 
 ## Members
 
 * [@chao_xian](https://twitter.com/chao_xian)
 * [@dandineen](https://twitter.com/dandineen)
-* [@realstephens](https://twitter.com/realstephens) (waiting in the wings)
 * [@tomwe](https://twitter.com/tomwe)
 * [@tygertale](https://twitter.com/tygertale)
+* [@realstephens](https://twitter.com/realstephens) (Honourary)
 
 ## Club rules
 
