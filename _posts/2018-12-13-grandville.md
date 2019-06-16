@@ -59,13 +59,13 @@ Tom felt that things improved at the point a colour ‘flatter’ was brought in
 >
 > -- <cite>[Jake](https://twitter.com/tygertale)</cite>
 
-The story itself is thin and full of ham-fisted cultural references that fall copletely flat more often than not. 
+The story itself is thin and full of ham-fisted cultural references that fall completely flat more often than not. 
 
 Jake was particularly uncomfortable with the obvious attempt to link 9/11 with a similar terrorist atrocity in the book by using the phrase ‘ground zero’. It’s a heavy-handed trick and almost totally unsuccessful. We all would’ve preferred the story to stick closer to it’s pulpy roots and just tell us a damn good tale.
 
 Tom made it past the problems with the story and could enjoy the book for what it was. It did remind him of other 'FuzzPulp' books on the market such as [Blacksad](http://www.europecomics.com/serie/blacksad/), which, with heavy heart, he stated was ‘probably better than this’.
 
-Tom’s Blacksad reference is an interesting one as we all agreed the book *feels* like a European comic - something from a sepcialist Italian or French publisher. The casual violence, overt sexuality and weird pacing, especially the denouement that wraps up a huge global conspiracy in 2 pages of tightly-packed WTF, all contribute towards the sense that the book's English translation was sorely lacking. 
+Tom’s Blacksad reference is an interesting one as we all agreed the book *feels* like a European comic - something from a specialist Italian or French publisher. The casual violence, overt sexuality and weird pacing, especially the denouement that wraps up a huge global conspiracy in 2 pages of tightly-packed WTF, all contribute towards the sense that the book's English translation was sorely lacking. 
 
 > Everyone in this book hates the English. I can totally understand that.
 >
