@@ -16,14 +16,63 @@ We meet roughly once a month to discuss the chosen comic book. Meetups are frien
 
 ***
 
-### Isaac the pirate
+### SnagglePuss
 
-_TBC_ - Hosted by [@tygertale](https://twitter.com/tygertale)
-
-* This one seems to be a 'find it where you can'. There are some hardcopy versions available from Amazon, occasional copies on Ebay and Waterstones claim to be able to order it. It is not available digitally as far as we are aware. Good luck!
+_June 20th, 2019_ - Hosted by [@tomwe](https://twitter.com/tomwe)
 
 
 ## Previous meetups
+
+***
+
+### Square Eyes
+
+_April 2019_ - Hosted by [@tygertale](https://twitter.com/tygertale)
+
+***
+
+### Beasts of Burden Vol 1: Animal Rites
+
+_March 2019_ - Hosted by [@dandineen](https://twitter.com/dandineen)
+
+***
+
+### 4 Kids Walk into a Bank
+
+_January 2019_ - Hosted by [@tomwe](https://twitter.com/tomwe)
+
+# 2018
+
+### Grandville
+
+_December 2018_ - Hosted by [@dandineen](https://twitter.com/dandineen)
+
+***
+
+### Rock Candy Mountain
+
+_September 2018_ - Hosted by [@tomwe](https://twitter.com/tomwe)
+
+***
+
+### Mage Vol 1
+
+_August 2018_ - Hosted by [@dandineen](https://twitter.com/dandineen)
+
+***
+
+### Extremity
+
+_June 2018_ - Hosted by [@tomwe](https://twitter.com/tomwe)
+
+***
+
+### Isaac the pirate
+
+_April 2018_ - Hosted by [@tygertale](https://twitter.com/tygertale)
+
+* This one seems to be a 'find it where you can'. There are some hardcopy versions available from Amazon, occasional copies on Ebay and Waterstones claim to be able to order it. It is not available digitally as far as we are aware. Good luck!
+
 ***
 
 ### [Rust Vol 1 - Visitor in the field]({{site.url}}/rust/)
@@ -51,7 +100,7 @@ _January 11, 2018_ - Hosted by [@tomwe](https://twitter.com/tomwe)
 * Buy digital from [Comixology](https://www.comixology.co.uk/Black-Hammer-Vol-1-Secret-Origins/digital-comic/504790?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC90b3BSZXN1bHRzU2xpZGVy)
 * Buy the softback from [Amazon](https://www.amazon.co.uk/Black-Hammer-1-Secret-Origins/dp/1616557869/ref=sr_1_2?s=books&ie=UTF8&qid=1518606982&sr=1-2&keywords=black+hammer+volume+1)
 
-***
+# 2017
 
 ### Savage Town - _Write-up TBC_
 
@@ -131,7 +180,7 @@ _January 13, 2017_ - Hosted by [@tygertale](https://twitter.com/tygertale)
 * Buy digital from [Amazon Kindle](https://www.amazon.co.uk/Misty-Pat-Mills/dp/1781084521/ref=sr_1_1?ie=UTF8&qid=1500886338&sr=8-1&keywords=Misty)
 * Buy the trade paperback from [Amazon](https://www.amazon.co.uk/Misty-Pat-Mills/dp/1781084521/ref=sr_1_1?ie=UTF8&qid=1500886338&sr=8-1&keywords=Misty)
 
-***
+# 2016
 
 ### [Aleister and Adolf]({{site.url}}/aleister-and-adolf/)
 
@@ -230,7 +279,7 @@ _January 07, 2016_ - Hosted by [@tomwe](https://twitter.com/tomwe)
 * Buy hard copy from [The Book Depository](http://www.bookdepository.com/book/9781632155726?redirected=true&selectCurrency=GBP&w=AFC7AU96S08969A8Z94R&gclid=CNqdyoa778kCFYoBwwodXD0PJw)
 * Available as a 'pay-what-you-want' digital download from [Panel Syndicate](http://panelsyndicate.com/comics/tpeye)
 
-***
+# 2015
 
 _CHRISTMAS SPECIAL!_
 
