@@ -17,14 +17,21 @@ We meet roughly once a month to discuss the chosen comic book. Meetups are frien
 
 ## Upcoming meetups
 
-### Exit stage left: The SnagglePuss chronicles
+### Bone Vol1: Out from Boneville
+
+_July 11th, 2019_ - Hosted by [@dandineen](https://twitter.com/dandineen)
+
+* Buy digital from [Comixology](https://www.comixology.co.uk/Bone-Vol-1-Out-From-Boneville/digital-comic/12717?ref=c2VyaWVzL3ZpZXcvZGVza3RvcC9ncmlkTGlzdC9HcmFwaGljTm92ZWxz)
+* Buy the TBP from [Amazon](https://www.amazon.co.uk/Out-Boneville-1-Bone-Graphix/dp/0439706408/ref=sr_1_2?crid=V6YQK6IQ9RGD&keywords=bone+volume+1&qid=1561908727&s=gateway&sprefix=Bone+volume+%2Caps%2C223&sr=8-2)
+
+## Previous meetups
+
+### Exit stage left: The SnagglePuss chronicles - _Write-up TBC_
 
 _June 20th, 2019_ - Hosted by [@tomwe](https://twitter.com/tomwe)
 
 * Buy digital from [Comixology](https://www.comixology.co.uk/Exit-Stage-Left-The-Snagglepuss-Chronicles-2018/digital-comic/660559?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC90b3BSZXN1bHRzU2xpZGVy)
 * Buy the TBP from [Amazon](https://www.amazon.co.uk/Exit-Stage-Left-Snagglepuss-Chronicles/dp/1401275214/ref=sr_1_1?crid=F9CT98D13O6H&keywords=snagglepuss&qid=1560883747&s=gateway&sprefix=Snagglepuss%2Caps%2C142&sr=8-1)
-
-## Previous meetups
 
 ### Square Eyes - _Write-up TBC_
 
@@ -112,7 +119,7 @@ _February 01, 2018_ - Hosted by [@chao_xian](https://twitter.com/chao_xian)
 * Buy digital from [Amazon Kindle](https://www.amazon.co.uk/Shadow-Hero-Gene-Luen-Yang-ebook/dp/B00LDR85LK/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1518606899&sr=8-1)
 * Buy the softback from [Amazon](https://www.amazon.co.uk/Shadow-Hero-Luen/dp/1596436972/ref=sr_1_1?ie=UTF8&qid=1518606899&sr=8-1&keywords=shadow+hero)
 
-### Black Hammer Vol 1 Secret Origins - _Write-up TBC_
+### [Black Hammer Vol 1: Secret Origins]({{site.url}}/black-hammer/)
 
 _January 11, 2018_ - Hosted by [@tomwe](https://twitter.com/tomwe)
 
