@@ -17,16 +17,44 @@ We meet roughly once a month to discuss the chosen comic book. Meetups are frien
 
 ## Upcoming meetups
 
-### Bone Vol1: Out from Boneville
+### Asterix
+
+_Date TBC_ - Hosted by [@tygertale](https://twitter.com/tygertale)
+
+* Buy digital from [Comixology](https://www.comixology.co.uk/)
+* Buy the TBP from [Amazon](https://www.amazon.co.uk/)
+
+## Previous meetups
+
+### Doomsday Clock
+
+_December 11th, 2019_ - Hosted by [@dandineen](https://twitter.com/dandineen)
+
+* Buy digital from [Comixology](https://www.comixology.co.uk/)
+* Buy the hardback from [Amazon](https://www.amazon.co.uk/)
+
+### Ken Games
+
+_November 21st, 2019_ - Hosted by [@tomwe](https://twitter.com/tomwe)
+
+* Buy digital from [Comixology](https://www.comixology.co.uk/)
+* Buy the hardback from [Amazon](https://www.amazon.co.uk/)
+
+### Skip
+
+_October 17th, 2019_ - Hosted by [@tygertale](https://twitter.com/tygertale)
+
+* Buy digital from [Comixology](https://www.comixology.co.uk/)
+* Buy the hardback from [Amazon](https://www.amazon.co.uk/)
+
+### [Bone Vol1: Out from Boneville]({{site-url}}/bone)
 
 _July 11th, 2019_ - Hosted by [@dandineen](https://twitter.com/dandineen)
 
 * Buy digital from [Comixology](https://www.comixology.co.uk/Bone-Vol-1-Out-From-Boneville/digital-comic/12717?ref=c2VyaWVzL3ZpZXcvZGVza3RvcC9ncmlkTGlzdC9HcmFwaGljTm92ZWxz)
 * Buy the TBP from [Amazon](https://www.amazon.co.uk/Out-Boneville-1-Bone-Graphix/dp/0439706408/ref=sr_1_2?crid=V6YQK6IQ9RGD&keywords=bone+volume+1&qid=1561908727&s=gateway&sprefix=Bone+volume+%2Caps%2C223&sr=8-2)
 
-## Previous meetups
-
-### Exit stage left: The SnagglePuss chronicles - _Write-up TBC_
+### [Exit stage left: The SnagglePuss chronicles]({{site-url}}/snagglepuss)
 
 _June 20th, 2019_ - Hosted by [@tomwe](https://twitter.com/tomwe)
 
