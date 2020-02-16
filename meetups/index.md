@@ -12,23 +12,33 @@ modified: 2015-10-04
 
 We meet roughly once a month to discuss the chosen comic book. Meetups are friendly and relatively informal although there are some [basic rules](http://www.thecomicbookclub.co.uk/about/).
 
-# 2019
+# 2020
 ***
 
 ## Upcoming meetups
+
+### Silver Surfer Black
+
+February 27th, 2020_ - Hosted by [@tomwe](https://twitter.com/tomwe)
+
+* Buy digital from [Comixology](https://www.comixology.co.uk/Silver-Surfer-Black/digital-comic/806749?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC90b3BSZXN1bHRzU2xpZGVy)
+* Buy the oversize paperback treasury edition from [Amazon](https://www.comixology.co.uk/Silver-Surfer-Black/digital-comic/806749?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC90b3BSZXN1bHRzU2xpZGVy)
+
+## Previous meetups
 
 ### Asterix Double-bill special for 2020!
 
 #### Asterix and the Chieftan's Daughter / Asterix The Legionary
 
-_Date TBC_ - Hosted by [@tygertale](https://twitter.com/tygertale)
+_January 30th, 2020_ - Hosted by [@tygertale](https://twitter.com/tygertale)
 
 * Buy digital from [Amazon Kindle](https://www.amazon.co.uk/Asterix-Chieftains-Daughter-Album-38-ebook/dp/B07QQYJWTT/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1576612264&sr=8-1)
 * Buy the softback from [Amazon](https://www.amazon.co.uk/Asterix-Chieftains-Daughter-Album-38/dp/1510107142/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1576612264&sr=8-1)
 
-## Previous meetups
+# 2019
+***
 
-### Doomsday Clock
+### [Doomsday Clock]({{site-url}}/doomsday-clock)
 
 _December 11th, 2019_ - Hosted by [@dandineen](https://twitter.com/dandineen)
 
