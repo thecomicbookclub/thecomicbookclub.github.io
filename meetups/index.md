@@ -17,14 +17,21 @@ We meet roughly once a month to discuss the chosen comic book. Meetups are frien
 
 ## Upcoming meetups
 
-### Silver Surfer Black
+### Dalston Monsterzz
 
-February 27th, 2020_ - Hosted by [@tomwe](https://twitter.com/tomwe)
+_TBC, 2020_ - Hosted by [@dandineen](https://twitter.com/dandineen)
 
-* Buy digital from [Comixology](https://www.comixology.co.uk/Silver-Surfer-Black/digital-comic/806749?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC90b3BSZXN1bHRzU2xpZGVy)
-* Buy the oversize paperback treasury edition from [Amazon](https://www.comixology.co.uk/Silver-Surfer-Black/digital-comic/806749?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC90b3BSZXN1bHRzU2xpZGVy)
+* Currently unavailable digitally
+* Buy the hardback from [Amazon](https://www.amazon.co.uk/Dalston-Monsterzz-Dilraj-Mann/dp/1910620351/ref=sr_1_1?crid=336CFRNG5DH8T&keywords=dalston+monsterzz&qid=1584108749&sprefix=Dalston+monst%2Caps%2C231&sr=8-1)
 
 ## Previous meetups
+
+### Silver Surfer Black
+
+_February 27th, 2020_ - Hosted by [@tomwe](https://twitter.com/tomwe)
+
+* Buy digital from [Comixology](https://www.comixology.co.uk/Silver-Surfer-Black/digital-comic/806749?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC90b3BSZXN1bHRzU2xpZGVy)
+* Buy the oversize paperback treasury edition from [Amazon](https://www.amazon.co.uk/Silver-Surfer-Treasury-Donny-Cates/dp/1302917439/ref=sr_1_1?crid=1HZ7TW4MP8TA5&keywords=silver+surfer+black&qid=1584108797&sprefix=Silver+surfer+%2Caps%2C336&sr=8-1)
 
 ### Asterix Double-bill special for 2020!
 
@@ -45,7 +52,7 @@ _December 11th, 2019_ - Hosted by [@dandineen](https://twitter.com/dandineen)
 * Buy digital from [Comixology](https://www.comixology.co.uk/Doomsday-Clock-Part-1/digital-comic/803447?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC90b3BSZXN1bHRzU2xpZGVy)
 * Buy the hardback from [Amazon](https://www.amazon.co.uk/Doomsday-Clock-Part-Geoff-Johns/dp/177950120X/ref=sr_1_1?crid=2JO9OS7HCQ13H&keywords=doomsday+clock+part+1&qid=1576612169&sprefix=Doomsday+Clock%2Caps%2C164&sr=8-1)
 
-### Ken Games
+### [Ken Games]({{site-url}}/ken-games)
 
 _November 21st, 2019_ - Hosted by [@tomwe](https://twitter.com/tomwe)
 
