@@ -17,14 +17,21 @@ We meet roughly once a month to discuss the chosen comic book. Meetups are frien
 
 ## Upcoming meetups
 
-### Batman '66 - Vol 1
+### Naussica - Vol 1 (or the whole thing if you prefer!)
+
+_TBC - VIRTUAL MEET-UP!_ - Hosted by [@tygertale](https://twitter.com/tygertale)
+
+* Buy volume 1 from [The Book Depository](https://www.bookdepository.com/Nausicaa-Valley-Wind-Vol-1-Hayao-Miyazaki/9781591164081)
+* Buy the collected box set from [The Book Depository](https://www.bookdepository.com/Nausicaa-Valley-Wind-Box-Set-Hayao-Miyazaki/9781421550640?ref=grid-view&qid=1588498063423&sr=1-1)
+
+## Previous meetups
+
+### Batman '66 - Vol 1 (Write-up TBC)
 
 _April 23rd 2020 - VIRTUAL MEET-UP!_ - Hosted by [@chao_xian](https://twitter.com/chao_xian)
 
-* Buy digital from [Comixology](https://www.comixology.co.uk/Batman-66-Vol-1/digital-comic/87475?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC90b3BSZXN1bHRzU2xpZGVy))
+* Buy digital from [Comixology](https://www.comixology.co.uk/Batman-66-Vol-1/digital-comic/87475?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC90b3BSZXN1bHRzU2xpZGVy)
 * Buy the softback from [Amazon](https://www.amazon.co.uk/Batman-66-TP-Jeff-Parker/dp/1401249310/ref=sr_1_1?crid=247B3L6PP1IUD&dchild=1&keywords=batman+66+vol+1&qid=1586515197&sprefix=Batman+66+%2Caps%2C157&sr=8-1)
-
-## Previous meetups
 
 ### [Dalston Monsterzz]({{site-url}}/dalston-monsterzz)
 
@@ -33,7 +40,7 @@ _March 19th 2020 - VIRTUAL MEET-UP!_ - Hosted by [@dandineen](https://twitter.co
 * Currently unavailable digitally
 * Buy the hardback from [Amazon](https://www.amazon.co.uk/Dalston-Monsterzz-Dilraj-Mann/dp/1910620351/ref=sr_1_1?crid=336CFRNG5DH8T&keywords=dalston+monsterzz&qid=1584108749&sprefix=Dalston+monst%2Caps%2C231&sr=8-1)
 
-### Silver Surfer Black
+### [Silver Surfer Black]({{site-url}}/silver-surfer-black)
 
 _February 27th, 2020_ - Hosted by [@tomwe](https://twitter.com/tomwe)
 
@@ -42,7 +49,7 @@ _February 27th, 2020_ - Hosted by [@tomwe](https://twitter.com/tomwe)
 
 ### Asterix Double-bill special for 2020!
 
-#### Asterix and the Chieftan's Daughter / Asterix The Legionary
+#### Asterix and the Chieftan's Daughter / Asterix The Legionary (Write-up TBC)
 
 _January 30th, 2020_ - Hosted by [@tygertale](https://twitter.com/tygertale)
 
