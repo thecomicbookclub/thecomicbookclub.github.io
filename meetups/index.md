@@ -17,16 +17,31 @@ We meet roughly once a month to discuss the chosen comic book. Meetups are frien
 
 ## Upcoming meetups
 
-### Naussica - Vol 1 (or the whole thing if you prefer!)
+### Batman Universe
 
-_TBC - VIRTUAL MEET-UP!_ - Hosted by [@tygertale](https://twitter.com/tygertale)
+_September 4th 2020 - VIRTUAL MEET-UP!_ - Hosted by [@chao_xian](https://twitter.com/chao_xian)
+
+* Buy digital from [Comixology](https://www.comixology.co.uk/Batman-Universe-2019/digital-comic/849882?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC90b3BSZXN1bHRzU2xpZGVy)
+* Buy the hardback from [The Book Depository](https://www.bookdepository.com/Batman-Universe-Brian-Michael-Bendis/9781401294847?ref=grid-view&qid=1598864993020&sr=1-1)
+
+## Previous meetups
+
+### [Once and Future]({{site-url}}/once-and-future)
+
+_July 2nd 2020 - VIRTUAL MEET-UP!_ - Hosted by [@dandineen](https://twitter.com/dandineen)
+
+* Buy digital from [Comixology](https://www.comixology.co.uk/Once-Future-Vol-1/digital-comic/834366?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC90b3BSZXN1bHRzU2xpZGVy)
+* Buy volume 1 from [The Book Depository](https://www.bookdepository.com/Once-Future-Vol-1-Kieron-Gillen/9781684154913?ref=grid-view&qid=1598864704872&sr=1-4)
+
+
+### Naussica - Vol 1 (Write-up TBC)
+
+_May 30th 2020 - VIRTUAL MEET-UP!_ - Hosted by [@tygertale](https://twitter.com/tygertale)
 
 * Buy volume 1 from [The Book Depository](https://www.bookdepository.com/Nausicaa-Valley-Wind-Vol-1-Hayao-Miyazaki/9781591164081)
 * Buy the collected box set from [The Book Depository](https://www.bookdepository.com/Nausicaa-Valley-Wind-Box-Set-Hayao-Miyazaki/9781421550640?ref=grid-view&qid=1588498063423&sr=1-1)
 
-## Previous meetups
-
-### Batman '66 - Vol 1 (Write-up TBC)
+### [Batman '66 - Vol 1]({{site-url}}/batman-66)
 
 _April 23rd 2020 - VIRTUAL MEET-UP!_ - Hosted by [@chao_xian](https://twitter.com/chao_xian)
 
