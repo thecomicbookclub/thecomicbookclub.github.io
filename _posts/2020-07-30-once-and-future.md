@@ -3,7 +3,7 @@ layout: post
 title: "Once and Future"
 description: "Modern Brit nationalism meets zombified King Arthur"
 tags: [review]
-modified: 2020-07-02
+modified: 2020-07-30
 author: Dan Dineen
 image:
   feature: comic/once-and-future/once-cover.jpg
