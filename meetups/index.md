@@ -28,10 +28,18 @@ _September 4th 2020 - VIRTUAL MEET-UP!_ - Hosted by [@chao_xian](https://twitter
 
 ### [Once and Future]({{site-url}}/once-and-future)
 
-_July 2nd 2020 - VIRTUAL MEET-UP!_ - Hosted by [@dandineen](https://twitter.com/dandineen)
+_July 30th 2020 - VIRTUAL MEET-UP!_ - Hosted by [@dandineen](https://twitter.com/dandineen)
 
 * Buy digital from [Comixology](https://www.comixology.co.uk/Once-Future-Vol-1/digital-comic/834366?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC90b3BSZXN1bHRzU2xpZGVy)
 * Buy volume 1 from [The Book Depository](https://www.bookdepository.com/Once-Future-Vol-1-Kieron-Gillen/9781684154913?ref=grid-view&qid=1598864704872&sr=1-4)
+
+
+### [Everything]({{site-url}}/everything)
+
+_July 9th 2020 - VIRTUAL MEET-UP!_ - Hosted by [@tomwe](https://twitter.com/tomwe)
+
+* Buy digital from [Comixology](https://www.comixology.co.uk/Everything-Vol-1/digital-comic/835372?ref=c2VyaWVzL3ZpZXcvZGVza3RvcC9ncmlkTGlzdC9Db2xsZWN0ZWRFZGl0aW9ucw)
+* Buy volume 1 from [Amazon](https://www.amazon.co.uk/Everything-1-Christopher-Cantwell-ebook/dp/B07VSBVS2X/ref=sr_1_1?dchild=1&keywords=Everything+Culbard&qid=1598885781&sr=8-1)
 
 
 ### Naussica - Vol 1 (Write-up TBC)
