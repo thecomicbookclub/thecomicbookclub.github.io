@@ -23,7 +23,7 @@ I wanted to bring something from [Karen Berger](https://en.wikipedia.org/wiki/Ka
 
 EVERYTHING then, (finally) is the story of a new shopping mall opening in a small American town, and although this seems to many a good thing, it turns out there are shady/mysterious/insert adjective here goings on and the staff may or may not be robots! I think I can say this in a review as the cover has manager Shirly with lasers coming out of her eye. I mean, it's right there isn't it? Actually, the cover is pretty nice. Said laser is a spot varnish and the cover also has French Folds so it feels like a premium edition. Dan and Jake missed the feel of the book though as they went with digital editions, but were glad to have done so as this saved them £££ on a title they really didn't click with! Kelvin's girlfriend Laura said it was a page turner but he has now completely forgotten he read it at all, which is never good!
 
-[![Mind bent]({{site.url}}/images/comic/everything/everything3.jpg)]({{site.url}}/images/comic/everything/everything3.jpg)
+[![Everything everywhere]({{site.url}}/images/comic/everything/everything3.jpg)]({{site.url}}/images/comic/everything/everything3.jpg)
 
 I think I'd return to the series to see where it went (I was annoyed actually that I'd missed this was only part one of the story) but it didn't set the world on fire for originality. I'm hoping my meh-ness with all things retro doesn't spoil the upcoming Wonder Woman 1984!
 
