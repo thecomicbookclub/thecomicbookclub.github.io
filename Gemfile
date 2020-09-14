@@ -1,10 +1,10 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 3.7.4'
+gem 'jekyll', '~> 4.0.1'
 gem 'jekyll-gist'
 gem 'jekyll-paginate'
 gem 'sass'
-gem 'octopress', '~> 3.0.0.rc.12'
+gem 'octopress'
 gem 'jekyll-sitemap'
 gem 'guard-jekyll-plus'
 gem 'jemoji'
