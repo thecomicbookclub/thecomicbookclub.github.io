@@ -7,6 +7,7 @@ modified: 2020-07-30
 author: Dan Dineen
 image:
   feature: comic/once-and-future/once-cover.jpg
+  avif: comic/once-and-future/once-cover.avif
   credit: Kieron Gillen, Dan Mora & Tamra Bonvillain
   creditlink: https://www.boom-studios.com/series/oncefuture/
 ---

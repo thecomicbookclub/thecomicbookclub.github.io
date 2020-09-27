@@ -15,7 +15,13 @@ image:
   <header>
     {% if post.image.feature %}
       <div class="entry-image-index">
-        <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><img src="{{ site.url }}/images/{{ post.image.feature }}" alt="{{ post.title }}"></a>
+        <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">
+            <!-- <img src="{{ site.url }}/images/{{ post.image.feature }}" alt="{{ post.title }}"> -->
+            <picture>
+							<source type="image/avif" srcset="{{site.url}}/images/{{post.image.avif}}">
+							<img loading="lazy" src="{{ site.url }}/images/{{ post.image.feature }}" alt="{{ post.title }}">
+						</picture>
+        </a>
       </div><!-- /.entry-image -->
     {% endif %}
     <div class="entry-meta">
