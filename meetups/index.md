@@ -12,19 +12,63 @@ modified: 2015-10-04
 
 We meet roughly once a month to discuss the chosen comic book. Meetups are friendly and relatively informal although there are some [basic rules](http://www.thecomicbookclub.co.uk/about/).
 
-# 2020
+# 2021
 ***
 
 ## Upcoming meetups
 
-### Batman Universe
+### Slaughterhouse Five
+
+_April 22nd 2020 - VIRTUAL MEET-UP!_ - Hosted by [@tomwe](https://www.twitter.com/tomwe)
+
+* Buy digital from [Comixology](https://www.comixology.co.uk/Slaughter-House-Five/digital-comic/884340?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC90b3BSZXN1bHRzU2xpZGVy)
+* Buy the graphic novel from [The Book Depository](https://www.bookdepository.com/Slaughterhouse-Five--The-Graphic-Novel/9781684156252)
+
+## Previous meetups
+
+### [The Seeds]({{site-url}}/seeds)
+
+_March 18th 2020 - VIRTUAL MEET-UP!_ - Hosted by [@itspaulmcgroovy](https://www.twitter.com/itspaulmcgroovy)
+
+* Buy digital from [Comixology](https://www.comixology.co.uk/The-Seeds/digital-comic/902710?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC9pdGVtU2xpZGVy)
+* Buy the trade paperback from [The Book Depository](https://www.bookdepository.com/Seeds-Ann-Nocenti/9781506705880?ref=grid-view&qid=1617699092157&sr=1-15)
+
+### Beautiful Darkness - Writeup TBC
+
+_February 21st 2021 - VIRTUAL MEET-UP!_ - Hosted by [@tygertale](https://www.twitter.com/tygertale)
+
+* Buy the graphic novel from [The Book Depository](https://www.bookdepository.com/Beautiful-Darkness-Fabien-Vehlmann/9781770463363?ref=grid-view&qid=1617698908580&sr=1-4)
+
+### [Gamish]({{site-url}}/gamish)
+
+_January 21st 2021 - VIRTUAL MEET-UP!_ - Hosted by [@chao_xian](https://www.twitter.com/chao_xian)
+
+* Buy the hardback [direct from the creator](https://edwardross.bigcartel.com/)
+
+# 2020
+***
+
+## Previous meetups
+
+### [Manu]({{site-url}}/manu)
+
+_December 3rd 2020 - VIRTUAL MEET-UP!_ - Hosted by [@dandineen](https://www.twitter.com/dandineen)
+
+* Buy digital and hard copies [direct from the creator](https://gustaffovargas.bigcartel.com/)
+
+### [Street Angel]({{site-url}}/street-angel)
+
+_November 12th 2020 - VIRTUAL MEET-UP!_ - Hosted by [@tomwe](https://www.twitter.com/tomwe)
+
+* Buy digital from [Comixology](https://www.comixology.co.uk/Street-Angel-Vol-1-Deadliest-Girl-Alive/digital-comic/798358?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC90b3BSZXN1bHRzU2xpZGVy)
+* Buy the trade paperback from [The Book Depository](https://www.bookdepository.com/Street-Angel-Deadliest-Girl-Alive-Jim-Rugg/9781534313507?ref=grid-view&qid=1617698480071&sr=1-1)
+
+### [Batman Universe]({{site-url}}/batman-universe)
 
 _September 4th 2020 - VIRTUAL MEET-UP!_ - Hosted by [@chao_xian](https://twitter.com/chao_xian)
 
 * Buy digital from [Comixology](https://www.comixology.co.uk/Batman-Universe-2019/digital-comic/849882?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC90b3BSZXN1bHRzU2xpZGVy)
 * Buy the hardback from [The Book Depository](https://www.bookdepository.com/Batman-Universe-Brian-Michael-Bendis/9781401294847?ref=grid-view&qid=1598864993020&sr=1-1)
-
-## Previous meetups
 
 ### [Once and Future]({{site-url}}/once-and-future)
 
