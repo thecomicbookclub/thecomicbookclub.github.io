@@ -17,18 +17,25 @@ We meet roughly once a month to discuss the chosen comic book. Meetups are frien
 
 ## Upcoming meetups
 
-### Slaughterhouse Five
+### Madi
 
-_April 22nd 2020 - VIRTUAL MEET-UP!_ - Hosted by [@tomwe](https://www.twitter.com/tomwe)
+_June 3rd 2021 - VIRTUAL MEET-UP!_ - Hosted by [@dandineen](https://www.twitter.com/dandineen)
+
+* Currently unavailable digitally
+* Buy the softback or deluxe edition hardback from [z2 Comics](https://z2comics.com/products/madi-once-upon-a-time-in-the-future?variant=34236610085004)
+
+## Previous meetups
+
+### Slaughterhouse Five - Writeup TBC
+
+_April 22nd 2021 - VIRTUAL MEET-UP!_ - Hosted by [@tomwe](https://www.twitter.com/tomwe)
 
 * Buy digital from [Comixology](https://www.comixology.co.uk/Slaughter-House-Five/digital-comic/884340?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC90b3BSZXN1bHRzU2xpZGVy)
 * Buy the graphic novel from [The Book Depository](https://www.bookdepository.com/Slaughterhouse-Five--The-Graphic-Novel/9781684156252)
 
-## Previous meetups
-
 ### [The Seeds]({{site-url}}/seeds)
 
-_March 18th 2020 - VIRTUAL MEET-UP!_ - Hosted by [@itspaulmcgroovy](https://www.twitter.com/itspaulmcgroovy)
+_March 18th 2021 - VIRTUAL MEET-UP!_ - Hosted by [@itspaulmcgroovy](https://www.twitter.com/itspaulmcgroovy)
 
 * Buy digital from [Comixology](https://www.comixology.co.uk/The-Seeds/digital-comic/902710?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC9pdGVtU2xpZGVy)
 * Buy the trade paperback from [The Book Depository](https://www.bookdepository.com/Seeds-Ann-Nocenti/9781506705880?ref=grid-view&qid=1617699092157&sr=1-15)
